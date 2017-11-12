@@ -5,5 +5,19 @@ api_version: 1
 threadsafe: true
 
 handlers:
+
+- url: /img
+  static_dir: img
+
+- url: /css
+  static_dir: css
+
+- url: /js
+  static_dir: js
+
 - url: .*
   script: main.php
+
+# Serve php scripts.
+- url: /(.+\.php)$
+  script: \1
