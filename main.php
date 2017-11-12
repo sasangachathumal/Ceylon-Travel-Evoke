@@ -53,10 +53,10 @@
             <ul class="collapse">
 
                 <li class="title">
-                    <a href="index.html"><span>C</span>eylon <span>T</span>ravel <span>E</span>voke<span>.</span></a>
+                    <a href="main.php"><span>C</span>eylon <span>T</span>ravel <span>E</span>voke<span>.</span></a>
                 </li>
 
-                <li><a href="index.html">HOME</a>
+                <li><a href="main.php">HOME</a>
                     <!--<div class="drop-down two-column hover-fade">
                         <ul>
                             <li><a href="index.html">Home Version 1</a></li>
@@ -70,7 +70,7 @@
                         </ul>
                     </div>-->
                 </li>
-                <li><a href="tour-list.html">TOURS</a>
+                <li><a href="tour-list.php">TOURS</a>
                     <!--<ul class="drop-down one-column hover-fade">
                         <li><a href="hotel-index.html">Home Hotels</a></li>
                         <li><a href="hotel-list-view.html">List View</a></li>
