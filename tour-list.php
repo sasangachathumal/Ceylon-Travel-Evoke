@@ -1,26 +1,23 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: SMSC
- * Date: 11/11/2017
- * Time: 7:54 PM
- */
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
     <meta charset="utf-8">
-    <title>Travelia - Travel Agency, Responsive - Hotel Online Booking</title>
-    <meta name="keywords" content="HTML5 Template"/>
-    <meta name="description" content="World Cup - Responsive HTML5 Template soccer and sports">
-    <meta name="author" content="iwthemes.com">
+    <title>Ceylon Travel Evoke - travel with us</title>
+    <meta name="keywords" content="Ceylon Travel Evoke"/>
+    <meta name="keywords" content="Evoke"/>
+    <meta name="keywords" content="Travel"/>
+    <meta name="keywords" content="Travel Agency"/>
+    <meta name="keywords" content="Sri Lanka"/>
+    <meta name="keywords" content="Sri Lanka Travel Agency"/>
+    <meta name="keywords" content="Ceylon"/>
+    <meta name="description" content="Ceylon Travel Evoke - The best travel agency in Sri Lanka">
+    <meta name="author" content="S.M.S.Chathumal">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="css/style.css" rel="stylesheet" media="screen">
     <link href="css/skins/blue/blue.css" rel="stylesheet" media="screen" class="skin">
-
     <link href="css/theme-responsive.css" rel="stylesheet" media="screen">
 
     <link href="#" rel="stylesheet" media="screen" class="skin">
@@ -56,57 +53,62 @@
             <ul class="collapse">
 
                 <li class="title">
-                    <a href="index.html"><span>T</span>ravelia<span>.</span></a>
-                    <i class="fa fa-rocket"></i>
+                    <a href="main.php"><span>C</span>eylon <span>T</span>ravel <span>E</span>voke<span>.</span></a>
                 </li>
 
-                <li><a href="index.html">HOME</a>
-                    <div class="drop-down two-column hover-fade">
+                <li><a href="main.php">HOME</a>
+                    <!--<div class="drop-down two-column hover-fade">
                         <ul>
-                            <li><a href="index.html">Home Version 1</a></li>
-                            <li><a href="index-v2.html">Home Version 2</a></li>
-                            <li><a href="index-v3.html">Home Version 3</a></li>
-                            <li><a href="index-v4.html">Home Version 4</a></li>
+                            <li><a href="main.php">Home Version 1</a></li>
+                            <li><a href="index-v2.php">Home Version 2</a></li>
+                            <li><a href="index-v3.php">Home Version 3</a></li>
+                            <li><a href="index-v4.php">Home Version 4</a></li>
                         </ul>
                         <ul>
-                            <li><a href="hotel-index.html">Home Hotels</a></li>
-                            <li><a href="flight-index.html">Home Flights</a></li>
+                            <li><a href="hotel-main.php">Home Hotels</a></li>
+                            <li><a href="flight-main.php">Home Flights</a></li>
                         </ul>
-                    </div>
+                    </div>-->
                 </li>
-                <li><a href="hotel-index.html">HOTELS</a>
-                    <ul class="drop-down one-column hover-fade">
-                        <li><a href="hotel-index.html">Home Hotels</a></li>
-                        <li><a href="hotel-list-view.html">List View</a></li>
-                        <li><a href="tour-list.html">Grid View</a></li>
-                        <li><a href="hotel-detailed.html">Detailed</a></li>
-                    </ul>
+                <li><a href="tour-list.php">TOURS</a>
+                    <!--<ul class="drop-down one-column hover-fade">
+                        <li><a href="hotel-main.php">Home Hotels</a></li>
+                        <li><a href="hotel-list-view.php">List View</a></li>
+                        <li><a href="tour-list.php">Grid View</a></li>
+                        <li><a href="South_Sri_Lanka_Tour.php">Detailed</a></li>
+                    </ul>-->
                 </li>
-                <li><a href="template-shop.html">SHOP</a>
+                <li>
+                    <a href="contact.php">CONTACT</a>
+                </li>
+                <li>
+                    <a href="bookTour.php">BOOKING</a>
+                </li>
+                <!--<li><a href="template-shop.php">SHOP</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-shop.html">Default Shop</a></li>
-                        <li><a href="template-shop-sidebar.html">Sidebar Shop</a></li>
-                        <li><a href="template-shop.html#!/Beautiful-Venice/p/58713996/category=15487747">Single Shop</a>
+                        <li><a href="template-shop.php">Default Shop</a></li>
+                        <li><a href="template-shop-sidebar.php">Sidebar Shop</a></li>
+                        <li><a href="template-shop.php#!/Beautiful-Venice/p/58713996/category=15487747">Single Shop</a>
                         </li>
                     </ul>
                 </li>
-                <li><a href="template-about-1.html">ABOUT US</a>
+                <li><a href="template-about-1.php">ABOUT US</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-about-1.html">About Us 1</a></li>
-                        <li><a href="template-about-2.html">About us 2</a></li>
+                        <li><a href="template-about-1.php">About Us 1</a></li>
+                        <li><a href="template-about-2.php">About us 2</a></li>
                     </ul>
                 </li>
-                <li><a href="template-service-1.html">SERVICES</a>
+                <li><a href="template-service-1.php">SERVICES</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-service-1.html">Services 1</a></li>
-                        <li><a href="template-service-2.html">Services 2</a></li>
+                        <li><a href="template-service-1.php">Services 1</a></li>
+                        <li><a href="template-service-2.php">Services 2</a></li>
                     </ul>
                 </li>
-                <li><a href="template-gallery-4.html">GALLERY</a>
+                <li><a href="template-gallery-4.php">GALLERY</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-gallery-4.html">Gallery 4 Column</a></li>
-                        <li><a href="template-gallery-3.html">Gallery 3 Columns</a></li>
-                        <li><a href="template-gallery-2.html">Gallery 2 Columns</a></li>
+                        <li><a href="template-gallery-4.php">Gallery 4 Column</a></li>
+                        <li><a href="template-gallery-3.php">Gallery 3 Columns</a></li>
+                        <li><a href="template-gallery-2.php">Gallery 2 Columns</a></li>
                     </ul>
                 </li>
                 <li><a href="#">PACKAGES</a>
@@ -114,86 +116,90 @@
                         <ul>
                             <li>
                                 <h2><span>Punta</span> Cana</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/1.jpg" alt="image 1"> </a>
-                                <p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php"><img src="img/gallery-2/1.jpg" alt="image 1"> </a>
+                                <p>Punta Cana is a cape located east of the Dominican Republic in the province of La
+                                    Altagracia.</p>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                         <ul>
                             <li>
                                 <h2><span>Santa</span> Marta</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/2.jpg" alt="image 1"> </a>
-                                <p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php"><img src="img/gallery-2/2.jpg" alt="image 1"> </a>
+                                <p>Santa Marta, officially Tourism, Cultural and Historic District of Santa Marta is a
+                                    Colombian city.</p>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                         <ul>
                             <li>
                                 <h2><span>Isla</span> de San Andres</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/3.jpg" alt="image 1"> </a>
-                                <p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php"><img src="img/gallery-2/3.jpg" alt="image 1"> </a>
+                                <p>San Andres Island is the largest of the islands forming part of the Archipelago of
+                                    San Andrés.</p>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                         <ul>
                             <li>
                                 <h2><span>Cartagena</span> de Indias</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/4.jpg" alt="image 1"> </a>
-                                <p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php"><img src="img/gallery-2/4.jpg" alt="image 1"> </a>
+                                <p>Cartagena de Indias, officially Tourist and Cultural District of Cartagena de Indias
+                                    Cartagena de Indias abbreviated.</p>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                     </div>
                 </li>
-                <li><a href="template-about-1.html">FEATURES</a>
+                <li><a href="template-about-1.php">FEATURES</a>
                     <div class="drop-down full-width hover-fade">
                         <ul>
                             <li><h2>Templates</h2></li>
-                            <li><a href="template-about-1.html">About Us 1</a></li>
-                            <li><a href="template-about-2.html">About us 2</a></li>
-                            <li><a href="template-service-1.html">Services 1</a></li>
-                            <li><a href="template-service-2.html">Services 2</a></li>
-                            <li><a href="template-gallery-4.html">Gallery 4 Column</a></li>
-                            <li><a href="template-gallery-3.html">Gallery 3 Columns</a></li>
-                            <li><a href="template-gallery-2.html">Gallery 2 Columns</a></li>
-                            <li><a href="template-blog-right.html">Blog Right Sidebar</a></li>
-                            <li><a href="template-blog-left.html">Blog Left Sidebar</a></li>
+                            <li><a href="template-about-1.php">About Us 1</a></li>
+                            <li><a href="template-about-2.php">About us 2</a></li>
+                            <li><a href="template-service-1.php">Services 1</a></li>
+                            <li><a href="template-service-2.php">Services 2</a></li>
+                            <li><a href="template-gallery-4.php">Gallery 4 Column</a></li>
+                            <li><a href="template-gallery-3.php">Gallery 3 Columns</a></li>
+                            <li><a href="template-gallery-2.php">Gallery 2 Columns</a></li>
+                            <li><a href="template-blog-right.php">Blog Right Sidebar</a></li>
+                            <li><a href="template-blog-left.php">Blog Left Sidebar</a></li>
                         </ul>
                         <ul>
                             <li><h2>Templates</h2></li>
-                            <li><a href="template-blog-full.html">Blog Full Width</a></li>
-                            <li><a href="template-blog-read.html">Blog Read</a></li>
-                            <li><a href="template-faq.html">Page Faq Questions</a></li>
-                            <li><a href="page-full-widht.html">Page Full Widht</a></li>
-                            <li><a href="page-left.html">Page Left Sidebar</a></li>
-                            <li><a href="page-right.html">Page Right Sidebar</a></li>
-                            <li><a href="page-404.html">Page 404</a></li>
-                            <li><a href="page-site-map.html">Page Site Map</a></li>
-                            <li><a href="princing-tables.html">Princing tables</a></li>
+                            <li><a href="template-blog-full.php">Blog Full Width</a></li>
+                            <li><a href="template-blog-read.php">Blog Read</a></li>
+                            <li><a href="template-faq.php">Page Faq Questions</a></li>
+                            <li><a href="page-full-widht.php">Page Full Widht</a></li>
+                            <li><a href="page-left.php">Page Left Sidebar</a></li>
+                            <li><a href="page-right.php">Page Right Sidebar</a></li>
+                            <li><a href="page-404.php">Page 404</a></li>
+                            <li><a href="page-site-map.php">Page Site Map</a></li>
+                            <li><a href="princing-tables.php">Princing tables</a></li>
                         </ul>
                         <ul>
                             <li><h2>Features</h2></li>
-                            <li><a href="feature-header-1.html">Header Version 1</a></li>
-                            <li><a href="feature-header-2.html">Header Version 2</a></li>
-                            <li><a href="feature-header-3.html">Header Version 3</a></li>
-                            <li><a href="feature-header-4.html">Header Version 4</a></li>
-                            <li><a href="feature-footer-1.html#footer">Footer Version 1</a></li>
-                            <li><a href="feature-footer-2.html#footer">Footer Version 2</a></li>
-                            <li><a href="feature-footer-3.html#footer">Footer Version 3</a></li>
-                            <li><a href="feature-footer-4.html#footer">Footer Version 4</a></li>
-                            <li><a href="feature-background-sections.html">Background sections</a></li>
+                            <li><a href="feature-header-1.php">Header Version 1</a></li>
+                            <li><a href="feature-header-2.php">Header Version 2</a></li>
+                            <li><a href="feature-header-3.php">Header Version 3</a></li>
+                            <li><a href="feature-header-4.php">Header Version 4</a></li>
+                            <li><a href="feature-footer-1.php#footer">Footer Version 1</a></li>
+                            <li><a href="feature-footer-2.php#footer">Footer Version 2</a></li>
+                            <li><a href="feature-footer-3.php#footer">Footer Version 3</a></li>
+                            <li><a href="feature-footer-4.php#footer">Footer Version 4</a></li>
+                            <li><a href="feature-background-sections.php">Background sections</a></li>
                         </ul>
                         <ul>
                             <li><h2>Elements</h2></li>
-                            <li><a href="feature-grid-system.html">Grid System</a></li>
-                            <li><a href="feature-typograpy.html">Typograpy</a></li>
-                            <li><a href="feature-icons.html">Icons</a></li>
+                            <li><a href="feature-grid-system.php">Grid System</a></li>
+                            <li><a href="feature-typograpy.php">Typograpy</a></li>
+                            <li><a href="feature-icons.php">Icons</a></li>
                             <li class="icon-big-nav"><i class="fa fa-rocket"></i></li>
                         </ul>
                     </div>
                 </li>
                 <li>
-                    <a href="contact.html">CONTACT</a>
+                    <a href="contact.php">CONTACT</a>
                 </li>
                 <li class="social-bar"><a href="#">FOLLOW US</a>
                     <ul class="drop-down hover-zoom">
@@ -246,7 +252,7 @@
                             </form>
                         </li>
                     </ul>
-                </li>
+                </li>-->
             </ul>
         </nav>
 
@@ -263,7 +269,7 @@
                 <h1>Tours</h1>
                 <div class="crumbs">
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="main.php">Home</a></li>
                         <li>/</li>
                         <li>Tours</li>
                     </ul>
@@ -329,10 +335,8 @@
                                     </h3>
                                     <hr class="separator">
                                     <p>You can travel to Hikkaduwa, Koggala, Kanneliya, Bentota, Balapitiya.</p>
-                                    <br>
-                                    <hr class="separator">
-                                    <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View
-                                            Details</a></div>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -348,8 +352,7 @@
                                     </h3>
                                     <hr class="separator">
                                     <p>You can travel to Nuwara Eliya, Hortain Place, Kandy, Knuckles, Yala.</p>
-                                    <br>
-                                    <hr class="separator">
+                                    <br><hr class="separator">
                                     <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
@@ -364,10 +367,8 @@
                                         Classic Ceylon tour<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Galle, Sinharaja, Rathnapura, Kandy, Dambulla, Sigiriya,
-                                        Trincomalee.</p>
-                                    <br>
-                                    <hr class="separator">
+                                    <p>You can travel to Galle, Sinharaja, Rathnapura, Kandy, Dambulla, Sigiriya, Trincomalee.</p>
+                                    <br><hr class="separator">
                                     <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
@@ -382,10 +383,8 @@
                                         7 Days Tour (Honeymoon)<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Koggala, Galle, Bentota, Negombo, Kithulgala, Hikkaduwa, Nuwara
-                                        eliya.</p>
-                                    <br>
-                                    <hr class="separator">
+                                    <p>You can travel to Koggala, Galle, Bentota, Negombo, Kithulgala, Hikkaduwa, Nuwara eliya.</p>
+                                    <br><hr class="separator">
                                     <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
@@ -401,8 +400,7 @@
                                     </h3>
                                     <hr class="separator">
                                     <p>You can travel to Rathnapura, Sinharaja, Balapitiya, Bentota.</p>
-                                    <br>
-                                    <hr class="separator">
+                                    <br><hr class="separator">
                                     <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
@@ -418,8 +416,7 @@
                                     </h3>
                                     <hr class="separator">
                                     <p>You can travel to Kandy, Peradeniya, Nuwara eliya, Ella, Tangalle, Galle.</p>
-                                    <br>
-                                    <hr class="separator">
+                                    <br><hr class="separator">
                                     <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
@@ -434,10 +431,8 @@
                                         4 Day Tour<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Kandy, Sigiriya, Hikkaduwa, Nuwara eliya, Ella, Yala,
-                                        Sinharaja.</p>
-                                    <br>
-                                    <hr class="separator">
+                                    <p>You can travel to Kandy, Sigiriya, Hikkaduwa, Nuwara eliya, Ella, Yala, Sinharaja.</p>
+                                    <br><hr class="separator">
                                     <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
@@ -485,7 +480,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-md-5">
+                <!--<div class="col-md-5">
                     <div class="title-footer">
                         <h2>Save on your plans!
                             <br> <span>Select Travelia Theme And Receive</span>
@@ -494,12 +489,12 @@
                     <p>You can choose your favorite destination and start planning your long-awaited vacation. We offer
                         thousands of destinations and have a wide variety of hotels so that you can host and enjoy your
                         stay without problems. Book now your trip travelia.com.</p>
-                </div>
+                </div>-->
 
                 <div class="col-md-7">
                     <div class="row">
 
-                        <div class="col-md-3">
+                        <!--<div class="col-md-3">
                             <h3>FOLLOW US</h3>
                             <ul class="social">
                                 <li class="facebook"><span><i class="fa fa-facebook"></i></span><a href="#">Facebook</a>
@@ -518,28 +513,26 @@
                                 <li><i class="fa fa-check"></i> <a href="#">Disney Parks Vacations</a></li>
                                 <li><i class="fa fa-check"></i> <a href="#">Vacations As Advertised</a></li>
                             </ul>
-                        </div>
+                        </div>-->
 
 
                         <div class="col-md-4">
                             <h3>CONTACT US</h3>
                             <ul class="contact_footer">
                                 <li>
-                                    <i class="fa fa-envelope"></i> <a href="#"><span class="__cf_email__"
-                                                                                     data-cfemail="23465b424e534f4663465b424e534f460d404c4e">[email&#160;protected]</span></a>
+                                    <i class="fa fa-envelope"></i>rangikamadu.dl27@gmail.com<br>
+                                    <i class="fa fa-envelope"></i>hasitharanjana@gmail.com
                                 </li>
                                 <li>
-                                    <i class="fa fa-headphones"></i> <a href="#">55-5698-4589</a>
-                                </li>
-                                <li class="location">
-                                    <i class="fa fa-home"></i> <a href="#"> Av new stret - New York</a>
+                                    <i class="fa fa-phone"></i>(+94) 776 029 468<br>
+                                    <i class="fa fa-phone"></i>(+94) 779 891 275
                                 </li>
                             </ul>
                         </div>
 
                     </div>
-                    <div class="divisor"></div>
-                    <div class="row">
+                    <!--<div class="divisor"></div>-->
+                    <!--<div class="row">
 
                         <div class="col-md-12">
                             <h3>NEWSLETTER SIGN UP</h3>
@@ -573,7 +566,7 @@
                             <div id="result-newsletter"></div>
                         </div>
 
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
@@ -582,20 +575,19 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-5">
-                        <p>&copy; 2015 Travelia . All Rights Reserved. 2010 - 2015</p>
+                        <p>&copy; 2015 Ceylon Travel Evoke . All Rights Reserved. 2017 - 2018</p>
                     </div>
-                    <div class="col-md-7">
+                    <!--<div class="col-md-7">
 
                         <ul class="nav-footer">
-                            <li><a href="index.html">HOME</a></li>
-                            <li><a href="hotel-index.html">HOTELS</a></li>
-                            <li><a href="flight-index.html">FLIGHTS</a></li>
-                            <li><a href="car-index.html">CARS</a></li>
-                            <li><a href="cruice-index.html">CRUICES</a></li>
-                            <li><a href="contact.html">CONTACT</a></li>
+                            <li><a href="main.php">HOME</a></li>
+                            <li><a href="hotel-main.php">HOTELS</a></li>
+                            <li><a href="flight-main.php">FLIGHTS</a></li>
+                            <li><a href="car-main.php">CARS</a></li>
+                            <li><a href="cruice-main.php">CRUICES</a></li>
+                            <li><a href="contact.php">CONTACT</a></li>
                         </ul>
-
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>

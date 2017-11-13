@@ -59,50 +59,56 @@
                 <li><a href="main.php">HOME</a>
                     <!--<div class="drop-down two-column hover-fade">
                         <ul>
-                            <li><a href="index.html">Home Version 1</a></li>
-                            <li><a href="index-v2.html">Home Version 2</a></li>
-                            <li><a href="index-v3.html">Home Version 3</a></li>
-                            <li><a href="index-v4.html">Home Version 4</a></li>
+                            <li><a href="main.php">Home Version 1</a></li>
+                            <li><a href="index-v2.php">Home Version 2</a></li>
+                            <li><a href="index-v3.php">Home Version 3</a></li>
+                            <li><a href="index-v4.php">Home Version 4</a></li>
                         </ul>
                         <ul>
-                            <li><a href="hotel-index.html">Home Hotels</a></li>
-                            <li><a href="flight-index.html">Home Flights</a></li>
+                            <li><a href="hotel-main.php">Home Hotels</a></li>
+                            <li><a href="flight-main.php">Home Flights</a></li>
                         </ul>
                     </div>-->
                 </li>
                 <li><a href="tour-list.php">TOURS</a>
                     <!--<ul class="drop-down one-column hover-fade">
-                        <li><a href="hotel-index.html">Home Hotels</a></li>
-                        <li><a href="hotel-list-view.html">List View</a></li>
-                        <li><a href="tour-list.html">Grid View</a></li>
-                        <li><a href="hotel-detailed.html">Detailed</a></li>
+                        <li><a href="hotel-main.php">Home Hotels</a></li>
+                        <li><a href="hotel-list-view.php">List View</a></li>
+                        <li><a href="tour-list.php">Grid View</a></li>
+                        <li><a href="South_Sri_Lanka_Tour.php">Detailed</a></li>
                     </ul>-->
                 </li>
-                <li><a href="template-shop.html">SHOP</a>
+                <li>
+                    <a href="contact.php">CONTACT</a>
+                </li>
+                <li>
+                    <a href="bookTour.php">BOOKING</a>
+                </li>
+                <!--<li><a href="template-shop.php">SHOP</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-shop.html">Default Shop</a></li>
-                        <li><a href="template-shop-sidebar.html">Sidebar Shop</a></li>
-                        <li><a href="template-shop.html#!/Beautiful-Venice/p/58713996/category=15487747">Single Shop</a>
+                        <li><a href="template-shop.php">Default Shop</a></li>
+                        <li><a href="template-shop-sidebar.php">Sidebar Shop</a></li>
+                        <li><a href="template-shop.php#!/Beautiful-Venice/p/58713996/category=15487747">Single Shop</a>
                         </li>
                     </ul>
                 </li>
-                <li><a href="template-about-1.html">ABOUT US</a>
+                <li><a href="template-about-1.php">ABOUT US</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-about-1.html">About Us 1</a></li>
-                        <li><a href="template-about-2.html">About us 2</a></li>
+                        <li><a href="template-about-1.php">About Us 1</a></li>
+                        <li><a href="template-about-2.php">About us 2</a></li>
                     </ul>
                 </li>
-                <li><a href="template-service-1.html">SERVICES</a>
+                <li><a href="template-service-1.php">SERVICES</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-service-1.html">Services 1</a></li>
-                        <li><a href="template-service-2.html">Services 2</a></li>
+                        <li><a href="template-service-1.php">Services 1</a></li>
+                        <li><a href="template-service-2.php">Services 2</a></li>
                     </ul>
                 </li>
-                <li><a href="template-gallery-4.html">GALLERY</a>
+                <li><a href="template-gallery-4.php">GALLERY</a>
                     <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-gallery-4.html">Gallery 4 Column</a></li>
-                        <li><a href="template-gallery-3.html">Gallery 3 Columns</a></li>
-                        <li><a href="template-gallery-2.html">Gallery 2 Columns</a></li>
+                        <li><a href="template-gallery-4.php">Gallery 4 Column</a></li>
+                        <li><a href="template-gallery-3.php">Gallery 3 Columns</a></li>
+                        <li><a href="template-gallery-2.php">Gallery 2 Columns</a></li>
                     </ul>
                 </li>
                 <li><a href="#">PACKAGES</a>
@@ -110,90 +116,90 @@
                         <ul>
                             <li>
                                 <h2><span>Punta</span> Cana</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/1.jpg" alt="image 1"> </a>
+                                <a href="packages-main.php"><img src="img/gallery-2/1.jpg" alt="image 1"> </a>
                                 <p>Punta Cana is a cape located east of the Dominican Republic in the province of La
                                     Altagracia.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                         <ul>
                             <li>
                                 <h2><span>Santa</span> Marta</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/2.jpg" alt="image 1"> </a>
+                                <a href="packages-main.php"><img src="img/gallery-2/2.jpg" alt="image 1"> </a>
                                 <p>Santa Marta, officially Tourism, Cultural and Historic District of Santa Marta is a
                                     Colombian city.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                         <ul>
                             <li>
                                 <h2><span>Isla</span> de San Andres</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/3.jpg" alt="image 1"> </a>
+                                <a href="packages-main.php"><img src="img/gallery-2/3.jpg" alt="image 1"> </a>
                                 <p>San Andres Island is the largest of the islands forming part of the Archipelago of
                                     San Andrés.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                         <ul>
                             <li>
                                 <h2><span>Cartagena</span> de Indias</h2>
-                                <a href="packages-index.html"><img src="img/gallery-2/4.jpg" alt="image 1"> </a>
+                                <a href="packages-main.php"><img src="img/gallery-2/4.jpg" alt="image 1"> </a>
                                 <p>Cartagena de Indias, officially Tourist and Cultural District of Cartagena de Indias
                                     Cartagena de Indias abbreviated.</p>
-                                <a href="packages-index.html" class="btn btn-primary">View Details</a>
+                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
                             </li>
                         </ul>
                     </div>
                 </li>
-                <li><a href="template-about-1.html">FEATURES</a>
+                <li><a href="template-about-1.php">FEATURES</a>
                     <div class="drop-down full-width hover-fade">
                         <ul>
                             <li><h2>Templates</h2></li>
-                            <li><a href="template-about-1.html">About Us 1</a></li>
-                            <li><a href="template-about-2.html">About us 2</a></li>
-                            <li><a href="template-service-1.html">Services 1</a></li>
-                            <li><a href="template-service-2.html">Services 2</a></li>
-                            <li><a href="template-gallery-4.html">Gallery 4 Column</a></li>
-                            <li><a href="template-gallery-3.html">Gallery 3 Columns</a></li>
-                            <li><a href="template-gallery-2.html">Gallery 2 Columns</a></li>
-                            <li><a href="template-blog-right.html">Blog Right Sidebar</a></li>
-                            <li><a href="template-blog-left.html">Blog Left Sidebar</a></li>
+                            <li><a href="template-about-1.php">About Us 1</a></li>
+                            <li><a href="template-about-2.php">About us 2</a></li>
+                            <li><a href="template-service-1.php">Services 1</a></li>
+                            <li><a href="template-service-2.php">Services 2</a></li>
+                            <li><a href="template-gallery-4.php">Gallery 4 Column</a></li>
+                            <li><a href="template-gallery-3.php">Gallery 3 Columns</a></li>
+                            <li><a href="template-gallery-2.php">Gallery 2 Columns</a></li>
+                            <li><a href="template-blog-right.php">Blog Right Sidebar</a></li>
+                            <li><a href="template-blog-left.php">Blog Left Sidebar</a></li>
                         </ul>
                         <ul>
                             <li><h2>Templates</h2></li>
-                            <li><a href="template-blog-full.html">Blog Full Width</a></li>
-                            <li><a href="template-blog-read.html">Blog Read</a></li>
-                            <li><a href="template-faq.html">Page Faq Questions</a></li>
-                            <li><a href="page-full-widht.html">Page Full Widht</a></li>
-                            <li><a href="page-left.html">Page Left Sidebar</a></li>
-                            <li><a href="page-right.html">Page Right Sidebar</a></li>
-                            <li><a href="page-404.html">Page 404</a></li>
-                            <li><a href="page-site-map.html">Page Site Map</a></li>
-                            <li><a href="princing-tables.html">Princing tables</a></li>
+                            <li><a href="template-blog-full.php">Blog Full Width</a></li>
+                            <li><a href="template-blog-read.php">Blog Read</a></li>
+                            <li><a href="template-faq.php">Page Faq Questions</a></li>
+                            <li><a href="page-full-widht.php">Page Full Widht</a></li>
+                            <li><a href="page-left.php">Page Left Sidebar</a></li>
+                            <li><a href="page-right.php">Page Right Sidebar</a></li>
+                            <li><a href="page-404.php">Page 404</a></li>
+                            <li><a href="page-site-map.php">Page Site Map</a></li>
+                            <li><a href="princing-tables.php">Princing tables</a></li>
                         </ul>
                         <ul>
                             <li><h2>Features</h2></li>
-                            <li><a href="feature-header-1.html">Header Version 1</a></li>
-                            <li><a href="feature-header-2.html">Header Version 2</a></li>
-                            <li><a href="feature-header-3.html">Header Version 3</a></li>
-                            <li><a href="feature-header-4.html">Header Version 4</a></li>
-                            <li><a href="feature-footer-1.html#footer">Footer Version 1</a></li>
-                            <li><a href="feature-footer-2.html#footer">Footer Version 2</a></li>
-                            <li><a href="feature-footer-3.html#footer">Footer Version 3</a></li>
-                            <li><a href="feature-footer-4.html#footer">Footer Version 4</a></li>
-                            <li><a href="feature-background-sections.html">Background sections</a></li>
+                            <li><a href="feature-header-1.php">Header Version 1</a></li>
+                            <li><a href="feature-header-2.php">Header Version 2</a></li>
+                            <li><a href="feature-header-3.php">Header Version 3</a></li>
+                            <li><a href="feature-header-4.php">Header Version 4</a></li>
+                            <li><a href="feature-footer-1.php#footer">Footer Version 1</a></li>
+                            <li><a href="feature-footer-2.php#footer">Footer Version 2</a></li>
+                            <li><a href="feature-footer-3.php#footer">Footer Version 3</a></li>
+                            <li><a href="feature-footer-4.php#footer">Footer Version 4</a></li>
+                            <li><a href="feature-background-sections.php">Background sections</a></li>
                         </ul>
                         <ul>
                             <li><h2>Elements</h2></li>
-                            <li><a href="feature-grid-system.html">Grid System</a></li>
-                            <li><a href="feature-typograpy.html">Typograpy</a></li>
-                            <li><a href="feature-icons.html">Icons</a></li>
+                            <li><a href="feature-grid-system.php">Grid System</a></li>
+                            <li><a href="feature-typograpy.php">Typograpy</a></li>
+                            <li><a href="feature-icons.php">Icons</a></li>
                             <li class="icon-big-nav"><i class="fa fa-rocket"></i></li>
                         </ul>
                     </div>
                 </li>
                 <li>
-                    <a href="contact.html">CONTACT</a>
+                    <a href="contact.php">CONTACT</a>
                 </li>
                 <li class="social-bar"><a href="#">FOLLOW US</a>
                     <ul class="drop-down hover-zoom">
@@ -246,7 +252,7 @@
                             </form>
                         </li>
                     </ul>
-                </li>
+                </li>-->
             </ul>
         </nav>
 
@@ -617,7 +623,7 @@
                             <li><a><i class="fa fa-star"></i></a></li>
                             <li><a><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View Details</a>
+                        <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a>
                         </div>-->
                     </div>
                 </div>
@@ -642,7 +648,7 @@
                             <li><a><i class="fa fa-star"></i></a></li>
                             <li><a><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View Details</a>
+                        <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a>
                         </div>-->
                     </div>
                 </div>
@@ -663,7 +669,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View Details</a>
+                        <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a>
                         </div>-->
                     </div>
                     <div class="image-boxed image-bottom">
@@ -688,7 +694,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View Details</a>
+                        <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a>
                         </div>-->
                     </div>
                     <div class="image-boxed image-bottom">
@@ -716,7 +722,7 @@
                             <li><a><i class="fa fa-star"></i></a></li>
                             <li><a><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View Details</a>
+                        <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a>
                         </div>-->
                     </div>
                 </div>
@@ -740,7 +746,7 @@
                             <li><a><i class="fa fa-star"></i></a></li>
                             <li><a><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <div class="content-btn"><a href="hotel-detailed.html" class="btn btn-primary">View Details</a>
+                        <div class="content-btn"><a href="South_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a>
                         </div>-->
                     </div>
                 </div>
@@ -1070,14 +1076,12 @@
                             <h3>CONTACT US</h3>
                             <ul class="contact_footer">
                                 <li>
-                                    <i class="fa fa-envelope"></i> <a href="#"><span class="__cf_email__"
-                                                                                     data-cfemail="305548515d405c55705548515d405c551e535f5d">[email&#160;protected]</span></a>
+                                    <i class="fa fa-envelope"></i>rangikamadu.dl27@gmail.com<br>
+                                    <i class="fa fa-envelope"></i>hasitharanjana@gmail.com
                                 </li>
                                 <li>
-                                    <i class="fa fa-headphones"></i> <a href="#">55-5698-4589</a>
-                                </li>
-                                <li class="location">
-                                    <i class="fa fa-home"></i> <a href="#"> Av new stret - New York</a>
+                                    <i class="fa fa-phone"></i>(+94) 776 029 468<br>
+                                    <i class="fa fa-phone"></i>(+94) 779 891 275
                                 </li>
                             </ul>
                         </div>
@@ -1132,12 +1136,12 @@
                     <!--<div class="col-md-7">
 
                         <ul class="nav-footer">
-                            <li><a href="index.html">HOME</a></li>
-                            <li><a href="hotel-index.html">HOTELS</a></li>
-                            <li><a href="flight-index.html">FLIGHTS</a></li>
-                            <li><a href="car-index.html">CARS</a></li>
-                            <li><a href="cruice-index.html">CRUICES</a></li>
-                            <li><a href="contact.html">CONTACT</a></li>
+                            <li><a href="main.php">HOME</a></li>
+                            <li><a href="hotel-main.php">HOTELS</a></li>
+                            <li><a href="flight-main.php">FLIGHTS</a></li>
+                            <li><a href="car-main.php">CARS</a></li>
+                            <li><a href="cruice-main.php">CRUICES</a></li>
+                            <li><a href="contact.php">CONTACT</a></li>
                         </ul>
                     </div>-->
                 </div>
