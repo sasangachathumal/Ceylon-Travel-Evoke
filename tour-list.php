@@ -433,7 +433,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Kandy, Sigiriya, Hikkaduwa, Nuwara eliya, Ella, Yala, Sinharaja.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="4-day-tours.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
