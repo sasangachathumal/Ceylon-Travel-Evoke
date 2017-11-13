@@ -281,7 +281,7 @@
                         <li>/</li>
                         <li><a href="tour-list.php">Tours</a></li>
                         <li>/</li>
-                        <li>Classic Ceylon tour</li>
+                        <li>Classic Tour</li>
                     </ul>
                 </div>
             </div>
@@ -292,9 +292,9 @@
 
     <div class="content-central">
 
-        <div class="semiboxshadow text-center">
-            <img src="img/img-theme/shp.png" class="img-responsive" alt="">
-        </div>
+<!--        <div class="semiboxshadow text-center">-->
+<!--            <img src="img/img-theme/shp.png" class="img-responsive" alt="">-->
+<!--        </div>-->
 
 
         <div class="content_info">
@@ -334,9 +334,9 @@
                         <div class="row">
 
                             <div class="col-xs-12 col-sm-6 col-md-4">
-                                <div class="img-hover">
-                                    <img src="img/hotel_list/Classic_Tours.png" alt="" class="img-responsive">
-                                </div>
+<!--                                <div class="img-hover">-->
+<!--                                    <img src="img/hotel_list/Classic_Tours.png" alt="" class="img-responsive">-->
+<!--                                </div>-->
                                 <div class="info-gallery">
                                     <h3>
                                         Classic Ceylon tour<br>
@@ -344,15 +344,15 @@
                                     <hr class="separator">
                                     <p>You can travel to Galle, Sinharaja, Rathnapura, Kandy, Dambulla, Sigiriya, Trincomalee.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="Classic_Ceylon_tour.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
 
                             <div class="col-xs-12 col-sm-6 col-md-4">
-                                <div class="img-hover">
-                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">
-                                </div>
+<!--                                <div class="img-hover">-->
+<!--                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">-->
+<!--                                </div>-->
                                 <div class="info-gallery">
                                     <h3>
                                         Classic Mini Tour<br>
@@ -360,7 +360,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Galle, Sinharaja, Rathnapura, Kandy, Dambulla, Sigiriya, Trincomalee.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="Classic_Mini_Tour.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>

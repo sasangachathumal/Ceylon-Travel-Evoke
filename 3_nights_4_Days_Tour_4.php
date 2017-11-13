@@ -374,7 +374,7 @@
                                             <p>Overnight Stay at Bentota</p>
                                         </li>
                                         <li>
-                                            <h3>Day 04(Bentota_Colombo)</h3>
+                                            <h3>Day 04(Bentota - Colombo)</h3>
                                             <p>Have breakfast at early morning. If you are interest to have Ayurveda spa therapy you will have that Opportunity in there.</p>
                                             <p>In Afternoon you will transfer to Colombo International Airport.</p>
                                         </li>

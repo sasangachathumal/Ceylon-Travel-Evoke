@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:15 AM
+ * Time: 9:19 AM
  */
 ?>
 <!DOCTYPE html>
@@ -49,7 +49,6 @@
 <div class="preloader">
     <div class="status">&nbsp;</div>
 </div>
-
 
 <div id="layout">
 
@@ -268,166 +267,119 @@
     </header>
 
 
-    <div class="section-title-detailed">
+    <div class="section-title-01">
 
-        <div id="single-carousel">
-            <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/1.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/3_Nights_4_days/1.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/2.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/3_Nights_4_days/2.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/3.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/3_Nights_4_days/3.jpeg" alt="" class="img-responsive">
-            </div>
-        </div>
+        <div class="bg_parallax image_06_parallax"></div>
 
 
-        <div class="title-detailed">
+        <div class="opacy_bg_02">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-9">
-                        <ul class="starts">
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
-                        </ul>
-                        <h2>3 Nights 4 Days Tour 1
-                            <!--<span>6 Nights 7 Days</span>-->
-                        </h2>
-                    </div>
-                    <div class="col-md-3">
-                    </div>
+                <h1>Tours</h1>
+                <div class="crumbs">
+                    <ul>
+                        <li><a href="main.php">Home</a></li>
+                        <li>/</li>
+                        <li><a href="tour-list.php">Tours</a></li>
+                        <li>/</li>
+                        <li>Hiking Tour</li>
+                    </ul>
                 </div>
             </div>
         </div>
 
     </div>
 
+
     <div class="content-central">
 
+<!--        <div class="semiboxshadow text-center">-->
+<!--            <img src="img/img-theme/shp.png" class="img-responsive" alt="">-->
+<!--        </div>-->
+
+
         <div class="content_info">
+            <div class="container">
+                <div class="row">
 
-            <div class="content_resalt paddings-mini tabs-detailed">
-                <div class="container wow fadeInUp">
-                    <div class="row">
-                        <div class="col-md-12">
+                    <div class="col-md-12">
 
-                            <ul class="nav nav-tabs" id="myTab">
-                                <li class="active">
-                                    <a href="#plan" data-toggle="tab"><i class="fa fa-bicycle"></i> TOUR PLAN</a>
-                                </li>
-                                <li>
-                                    <a href="#destinations" data-toggle="tab"><i class="fa fa-map-marker"></i>
-                                        Destinations</a>
-                                </li>
-                                <li class="pull-right">
-                                    <a href="#"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
-                                </li>
-                            </ul>
-
-                            <div class="tab-content">
-
-                                <div class="tab-pane active" id="plan">
-                                    <ul>
-                                        <li>
-                                            <h3>Day 01(Colombo - Kandy)</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by Tour star
-                                                representative and directed to your guide. You leave Colombo in the
-                                                morning and travel to Kandy witnessing the change of scenery and
-                                                climate. Arrive and check-in at hotel.</p>
-                                            <p>Evening, you will visit the old royal city of kandy,magical and
-                                                glamourous natural environment and beautifully nestled between green
-                                                hills.Sri lankan people admire the temple of the tooth relic as the
-                                                blessing of the country.then you will visit that adorable place which is
-                                                the holiest shrine in Sri Lanka, where the tooth relic of lord buddha is
-                                                highly venerated.As well you will have more opportunity to witness
-                                                cultural dance performances, where you will see famous kandyan dances,
-                                                as well as up-country and devil dances.</p>
-                                            <p>Overnight stay at Kandy</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 02(Kandy - Nuwara Eliya)</h3>
-                                            <p>Have breakfast at hotel and check-out hotel. You will transfer to
-                                                Nuwara eliya. The beautiful town of Nuwara eliya, set in the heart of the
-                                                Tea country and situated 1890m above sea level,the climate here is
-                                                rather cold during winter time it is the coldest sometimes there will be
-                                                frost.</p>
-                                            <p>You will visit the tea factory, plantations and several waterfalls in
-                                                Nuwara eliya on the way to there.</p>
-                                            <p>Check into Holiday bangalow and drive to Gegory lake in the evening
-                                                period.you will have nice opprtunity to enjoy with your family at
-                                                Lake.</p>
-                                            <p>Overnight stay at Nuwara Eliya</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 03( Nuwara Eliya - Ella)</h3>
-                                            <p>Have breakfast at the hotel,You will transfer to the Nuwara Eliya train
-                                                station to have journey by train to Ella. </p>
-                                            <p>Ella is cool and one of natural richest area in Sri Lanka.that will be a
-                                                one of hiking experience too.You can enjoy the Journey in there with
-                                                natural environment.</p>
-                                            <p>Overnight Stay at Ella</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 04 (Ella - Colombo)</h3>
-                                            <p>Breakfast at hotel. You will drive to Colombo International airport for
-                                                your Departure.</p>
-                                        </li>
-                                    </ul>
-                                </div>
-
-
-                                <div class="tab-pane" id="destinations">
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Hikkaduwa/@6.1277317,80.101522,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae177fbcae7226d:0x373eeb50aad15308!8m2!3d6.1394676!4d80.1062861?hl=en"><i
-                                                            class="fa fa-check"></i>Hikkaduwa</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Koggala/@6.0026938,80.3139207,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae16ccc65d32a85:0x47fdbb4441fdf8bf!8m2!3d6.000704!4d80.3352364?hl=en"><i
-                                                            class="fa fa-check"></i>Koggala</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li><a target="_blank"
-                                                       href="https://www.google.lk/maps/search/Kanneliya/@6.2472843,80.3448477,15.5z?hl=en"><i
-                                                            class="fa fa-check"></i>Kanneliya</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Bentota/@6.425699,79.9861482,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae22e900168ca21:0x96c438f00a68c060!8m2!3d6.4189175!4d80.005979?hl=en"><i
-                                                            class="fa fa-check"></i>Bentota</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Balapitiya/@6.2779305,80.0288341,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae180f06ea9bb1b:0x561e2543dfa329a5!8m2!3d6.2753892!4d80.0479039?hl=en"><i
-                                                            class="fa fa-check"></i>Balapitiya</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
+                        <div class="title-results">
+                            <h3></h3>
                         </div>
+
+
+                        <!--<div class="sort-by-container tooltip-hover">-->
+                        <!--<div class="row">-->
+                        <!--<div class="col-md-9">-->
+                        <!--<strong>Sort by:</strong>-->
+                        <!--<ul>-->
+                        <!--<li>-->
+                        <!--<div class="selector">-->
+                        <!--<select>-->
+                        <!--<option value="5">5 Starts</option>-->
+                        <!--<option value="4">4 Starts</option>-->
+                        <!--<option value="3">3 Starts</option>-->
+                        <!--<option value="2">2 Starts</option>-->
+                        <!--<option value="1">1 Starts</option>-->
+                        <!--</select>-->
+                        <!--<span class="custom-select">Users Rating</span>-->
+                        <!--</div>-->
+                        <!--</li>-->
+                        <!--</ul>-->
+                        <!--</div>-->
+                        <!--</div>-->
+                        <!--</div>-->
+
+
+                        <div class="row">
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+<!--                                <div class="img-hover">-->
+<!--                                    <img src="img/hotel_list/Classic_Tours.png" alt="" class="img-responsive">-->
+<!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        Hiking Sri Lanka tour<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Nuwara Eliya, Hortain Place, Kandy, Sigiriya.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="Hiking_Sri_Lanka_Tour.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+<!--                                <div class="img-hover">-->
+<!--                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">-->
+<!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        Hiking Sri Lanka Knuckles<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Kandy, Knuckles, yala.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="Hiking_Sri_Lanka_Knuckles.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <!--<ul class="pagination">-->
+                        <!--<li><a href="#">«</a></li>-->
+                        <!--<li class="active"><a href="#">1</a></li>-->
+                        <!--<li><a href="#">2</a></li>-->
+                        <!--<li><a href="#">3</a></li>-->
+                        <!--<li><a href="#">4</a></li>-->
+                        <!--<li><a href="#">5</a></li>-->
+                        <!--<li><a href="#">»</a></li>-->
+                        <!--</ul>-->
+
                     </div>
+
                 </div>
             </div>
         </div>

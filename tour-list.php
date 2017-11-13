@@ -353,7 +353,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Nuwara Eliya, Hortain Place, Kandy, Knuckles, Yala.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="hiking-tours.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -364,12 +364,12 @@
                                 </div>
                                 <div class="info-gallery">
                                     <h3>
-                                        Classic Ceylon tour<br>
+                                        Classic Tour<br>
                                     </h3>
                                     <hr class="separator">
                                     <p>You can travel to Galle, Sinharaja, Rathnapura, Kandy, Dambulla, Sigiriya, Trincomalee.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="classic-tours.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -380,7 +380,7 @@
                                 </div>
                                 <div class="info-gallery">
                                     <h3>
-                                        7 Days Tour (Honeymoon)<br>
+                                        7 Day Tour (Honeymoon)<br>
                                     </h3>
                                     <hr class="separator">
                                     <p>You can travel to Koggala, Galle, Bentota, Negombo, Kithulgala, Hikkaduwa, Nuwara eliya.</p>
@@ -401,7 +401,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Rathnapura, Sinharaja, Balapitiya, Bentota.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="2_nights_3_Days.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -417,7 +417,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Kandy, Peradeniya, Nuwara eliya, Ella, Tangalle, Galle.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="#" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="9_nights_10_Days.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
