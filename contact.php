@@ -331,7 +331,16 @@
                                 <textarea placeholder="Your Message" name="message" required=""></textarea>
                                 <input type="submit" name="Submit" value="Send Message" class="btn btn-primary">
                             </form>
-                            <div id="result"></div>
+                            <div id="result">
+                                <div id="contact_error" hidden class="alert alert-danger alert-dismissable">
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                                    <strong>Error!</strong> Contact email sending failed. Please try again.
+                                </div>
+                                <div id="contact_success" hidden class="alert alert-success alert-dismissable">
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                                    Contact email was <strong>successfully</strong> sent. Our agent will contact you as soon as possible.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -499,17 +508,22 @@
         $("#contact_form").submit(function (e) {
             e.preventDefault();
             var $form = $(this);
-            $form.addClass('loading');
+            $form.addClass('disable-click');
             var formDataSerialized = $(this).serialize();
             console.log(formDataSerialized);
             $.post("contact-email-send.php", formDataSerialized, function (data) {
-                $form.removeClass('loading');
-                console.log("data", data);
-//                if (data == 'success') {
-//                    $('#contact_success').show();
-//                } else {
-//                    $('#contact_error').show();
-//                }
+                $form.removeClass('disable-click');
+                if (data == 'success') {
+                    $('#contact_success').fadeIn();
+                    setTimeout(function () {
+                        $('#contact_success').fadeOut("slow");
+                    }, 3000);
+                } else {
+                    $('#contact_error').fadeIn();
+                    setTimeout(function () {
+                        $('#contact_error').fadeOut("slow");
+                    }, 3000);
+                }
             });
         });
     });

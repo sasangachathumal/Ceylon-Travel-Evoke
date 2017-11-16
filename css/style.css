@@ -3991,3 +3991,8 @@ address strong {
     font-size: 300;
     font-size: 0.8rem;
 }
+
+.disable-click {
+    cursor: progress;
+    pointer-events: none;
+}
