@@ -6,7 +6,7 @@
  * Time: 9:19 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -344,7 +344,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Kandy, Nuwara Eliya, Ella.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="3_nights_4_Days_Tour_1.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="4_Day_Tour_1.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -360,7 +360,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Kandy, Sigiriya, Sinharaja.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="3_nights_4_Days_Tour_2.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="4_Day_Tour_2.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -376,7 +376,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Hikkaduwa, Yala, Sinharaja, Rathnapura.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="3_nights_4_Days_Tour_3.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="4_Day_Tour_3.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -392,7 +392,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Hikkaduwa, Galle, Jungle beach, Rumassala, Mirissa, Koggala, Bentota.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="3_nights_4_Days_Tour_4.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="4_Day_Tour_4.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>

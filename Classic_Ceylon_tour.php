@@ -6,7 +6,7 @@
  * Time: 9:20 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 

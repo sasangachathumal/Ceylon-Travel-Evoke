@@ -3,10 +3,10 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:15 AM
+ * Time: 9:18 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -272,22 +272,58 @@
 
         <div id="single-carousel">
             <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/1.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/9_Nights_10_Days/image3.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/3_Nights_4_days/1.jpeg" alt="" class="img-responsive">
+                <img src="img/9_Nights_10_Days/image3.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/2.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/9_Nights_10_Days/image14.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/3_Nights_4_days/2.jpeg" alt="" class="img-responsive">
+                <img src="img/9_Nights_10_Days/image14.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/3.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/9_Nights_10_Days/image16.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/3_Nights_4_days/3.jpeg" alt="" class="img-responsive">
+                <img src="img/9_Nights_10_Days/image16.jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/9_Nights_10_Days/image18.jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/9_Nights_10_Days/image18.jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/9_Nights_10_Days/image20.jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/9_Nights_10_Days/image20.jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/9_Nights_10_Days/image22.jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/9_Nights_10_Days/image22.jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/9_Nights_10_Days/image24.jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/9_Nights_10_Days/image24.jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/9_Nights_10_Days/image27.jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/9_Nights_10_Days/image27.jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/9_Nights_10_Days/image28.jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/9_Nights_10_Days/image28.jpeg" alt="" class="img-responsive">
             </div>
         </div>
 
@@ -303,7 +339,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>3 Nights 4 Days Tour 1
+                        <h2>10 Days Tour
                             <!--<span>6 Nights 7 Days</span>-->
                         </h2>
                     </div>
@@ -342,11 +378,18 @@
                                 <div class="tab-pane active" id="plan">
                                     <ul>
                                         <li>
-                                            <h3>Day 01(Colombo - Kandy)</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by Tour star
-                                                representative and directed to your guide. You leave Colombo in the
-                                                morning and travel to Kandy witnessing the change of scenery and
-                                                climate. Arrive and check-in at hotel.</p>
+                                            <h3>Day 01 (Colombo)</h3>
+                                            <p>On arrival in Sri Lanka, You will be met and assist by Ceylon Travel Evoke
+                                                representative and directed to your guide. Colombo the capital of Sri
+                                                Lanka, has a long history as a port on ancient east-west trade routes,
+                                                ruled successively by the Portuguese, Dutch and British. At the evening
+                                                period is at leisure with dinner and overnight stay at the Hotel.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 02 (Colombo - Kandy)</h3>
+                                            <p>Breakfast at the Hotel and check out. You leave Colombo in the morning
+                                                and travel to Kandy witnessing the change of scenery and climate. Arrive
+                                                and check-in at hotel.</p>
                                             <p>Evening, you will visit the old royal city of kandy,magical and
                                                 glamourous natural environment and beautifully nestled between green
                                                 hills.Sri lankan people admire the temple of the tooth relic as the
@@ -355,35 +398,72 @@
                                                 highly venerated.As well you will have more opportunity to witness
                                                 cultural dance performances, where you will see famous kandyan dances,
                                                 as well as up-country and devil dances.</p>
-                                            <p>Overnight stay at Kandy</p>
+                                            <p>Return to the Hotel for dinner and over night stay.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 02(Kandy - Nuwara Eliya)</h3>
-                                            <p>Have breakfast at hotel and check-out hotel. You will transfer to
-                                                Nuwara eliya. The beautiful town of Nuwara eliya, set in the heart of the
-                                                Tea country and situated 1890m above sea level,the climate here is
-                                                rather cold during winter time it is the coldest sometimes there will be
-                                                frost.</p>
-                                            <p>You will visit the tea factory, plantations and several waterfalls in
-                                                Nuwara eliya on the way to there.</p>
-                                            <p>Check into Holiday bangalow and drive to Gegory lake in the evening
-                                                period.you will have nice opprtunity to enjoy with your family at
-                                                Lake.</p>
-                                            <p>Overnight stay at Nuwara Eliya</p>
+                                            <h3>Day 03 (Kandy - Peradeniya)</h3>
+                                            <p>After Breakfast at Hotel, commence a sightseeing tour of Kandy city
+                                                including Gem museum, Art and craf centre and Bazar.(if you are
+                                                interesting to visit this beautiful town by riding scooty, you will give
+                                                the facility for that too)</p>
+                                            <p>You visit the world famous botanical garden in peradeniya.As Sri Lanka’s
+                                                largest garden an elegent and spacious 147-acres (60-hectares) plent of
+                                                time is needed to stroll peradeniya’s imposing avenue of Royal
+                                                palms.</p>
+                                            <p>Candle light Dinner and overnight stay at the hotel in Peradeniya.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 03( Nuwara Eliya - Ella)</h3>
-                                            <p>Have breakfast at the hotel,You will transfer to the Nuwara Eliya train
-                                                station to have journey by train to Ella. </p>
-                                            <p>Ella is cool and one of natural richest area in Sri Lanka.that will be a
-                                                one of hiking experience too.You can enjoy the Journey in there with
-                                                natural environment.</p>
-                                            <p>Overnight Stay at Ella</p>
+                                            <h3>Day 04 (Peradeniya - Nuwara eliya)</h3>
+                                            <p>The beautiful town of Nuwara eliya, set in the heart of the Tea country
+                                                and situated 1890m above sea level,the climate here is rather cold
+                                                during winter time it is the coldest sometimes there will be frost.</p>
+                                            <p>Breakfast at the hotel and check-out.Travel to Nuwara eliya en route
+                                                visiting a tea plantation and a factory.Arrive and visit the city before
+                                                check-in at hotel for dinner and over night stay.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 04 (Ella - Colombo)</h3>
-                                            <p>Breakfast at hotel. You will drive to Colombo International airport for
-                                                your Departure.</p>
+                                            <h3>Day 05 (Nuwara eliya - Ella)</h3>
+                                            <p>After have Breakfast at the hotel and check out. Travel to Nanu oya to
+                                                take an enjoyable train journey to Ella.</p>
+                                            <p>Arrive and check in at the hotel for rest Dinner and over night stay at
+                                                the hotel.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 06 (Ella)</h3>
+                                            <p>Breakfast at the hotel and relax the whole day lazing in the cool
+                                                climate.</p>
+                                            <P>candle light dinner.</P>
+                                        </li>
+                                        <li>
+                                            <h3>Day 07 (Ella - Tangalle)</h3>
+                                            <p>After breakfast you will leave ella and drive along nice way which have
+                                                higher natural beauty.then you check in beach hotel in tangalle.Spend
+                                                your evening time relaxing by the beautiful Indian Ocean. Candle light
+                                                dinner and Overnight stay at Tangalle</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 08 (Tangalle)</h3>
+                                            <p>Breakfast at the hotel</p>
+                                            <p>Relax by the Beach</p>
+                                            <p>Overnight stay at Tangalle</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 09 (Tangale - Galle)</h3>
+                                            <p>Breakfast at the hotel</p>
+                                            <p>Transfer to Galle. The capital of the southern province is a city with a
+                                                colorful history. UNESCO declared world heritage site the magnificent
+                                                Dutch fort is the most popular attraction of the town. </p>
+                                            <p>You will visit Galle fort and in the evening period travel to Jungle
+                                                beach and relax by the beach (if you are interest to ride scooty we
+                                                provide that opportunity too)</p>
+                                            <p>In the evening period travel to Koggala and have a nice boat ride and
+                                                check into Koggala Lake.</p>
+                                            <p>Candle light Dinner and overnight stay at koggala</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 10 (Galle - Colombo)</h3>
+                                            <p>Breakfast at the hotel and transfer to the Airport for your
+                                                departure.</p>
                                         </li>
                                     </ul>
                                 </div>

@@ -3,10 +3,10 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:13 AM
+ * Time: 9:17 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -272,46 +272,22 @@
 
         <div id="single-carousel">
             <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image1.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image4%20(4).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/2_nights_3_Days/image1.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image4%20(4).jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image5.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image9%20(2).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/2_nights_3_Days/image5.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image9%20(2).jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image7.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image12%20(3).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/2_nights_3_Days/image7.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image10.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/2_nights_3_Days/image10.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image12.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/2_nights_3_Days/image12.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image15.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/2_nights_3_Days/image15.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/2_nights_3_Days/image17.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/2_nights_3_Days/image17.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image12%20(3).jpeg" alt="" class="img-responsive">
             </div>
         </div>
 
@@ -327,7 +303,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>2 Nights 3 Days
+                        <h2>1 Days Tour #3
                             <!--<span>6 Nights 7 Days</span>-->
                         </h2>
                     </div>
@@ -366,38 +342,49 @@
                                 <div class="tab-pane active" id="plan">
                                     <ul>
                                         <li>
-                                            <h3>Day 01(Colombo - Rathnapura - Sinharaja)</h3>
-                                            <p>Arrival in Colombo international Airport and meet with our
-                                                representative, you will Transfer to Rathnapura and Check into hotel.
-                                                Next you will transfer to sinharaja Rain forest.</p>
-                                            <p>Sinharaja Rain Forest is a national park and a biodiversity hotspot in
-                                                Sri Lanka. It is of international significance and has been designated a
-                                                Biosphere Reserve and World Heritage Site by UNESCO.</p>
-                                            <p>Relax Short time period by the hotel and visit Ratthnapura Gem museum and
-                                                Small gem mining villages in there in the evening. Rathnapura is one of
-                                                district in this small island. Some people named Rathnapua as the
-                                                prosperity of country. Gem mining is the main income recourse of people
-                                                living that area.</p>
-                                            <p>Overnight stay at Rathnapura</p>
+                                            <h3>Day 01 (Colombo - Bentota)</h3>
+                                            <p>On arrival in Sri Lanka, You will be met and assist by Tour star representative and directed to your guide. You will Transfer to Bentota, </p>
+                                            <p>Relax by the hotel.</p>
+                                            <p>Candle light dinner.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 02 (Rathnapura - Balapitiya - Bentota)</h3>
-                                            <p>Breakfast at hotel and check-out Hotel. You will drive to Balapitiya
-                                                which is one nice natural area in southern province. You will have an
-                                                enjoyable boat safari on Madu River, if you are interesting Fish massage
-                                                also available from there.</p>
-                                            <p>In afternoon you transfer to Bentota. Check into hotel and relax by the
-                                                beach or Hotel.</p>
-                                            <p>Overnight Stay at Bentota.</p>
+                                            <h3>Day 02 (Bentota - Galle - Koggala)</h3>
+                                            <p>You will have Breakfast at the hotel. Transfer to Galle, the capital of the southern province is a city with a colorful history. UNESCO declared   world heritage site the magnificent Dutch fort is the most popular attraction of the town.</p>
+                                            <p>You will visit galle fort and in the evening period travel to Jungle beach and relax by the beach (if you are interest to ride scooty we provide that opportunity too)</p>
+                                            <p>Check in to Koggala Lake.</p>
+                                            <p>Candle light dinner.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 03 (Bentota - Colombo)</h3>
-                                            <p>Have breakfast at the hotel. Now you will have the Opportunity having Sri
-                                                Lankan Ayurveda Spa therapy. By using 100% natural and Ayurveda plants,
-                                                oil, Flowers water and several kind of natural things they do their
-                                                therapies and massages. You will feel awesome relaxation.</p>
-                                            <p>You leave Bentota in the evening. Our Representative will transfer you to
-                                                Colombo international airport.</p>
+                                            <h3>Day 03 (Koggala)</h3>
+                                            <p>Breakfast at the hotel</p>
+                                            <p>In the morning you will enjoy the Boat ride in koggala.</p>
+                                            <p>Koggala Lake is an un-spoiled lake located in Southern province. It will feel like a paradise for natural lovers, The Lake is embellished with rocky islands, animals and shrubs. You can explore whole the area and all the islands. It is quite tremendous for bird watching and sunset sceneries in the evening.</p>
+                                            <p>Candle light dinner.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 04 (Galle - Kandy))</h3>
+                                            <p>Breakfast at the hotel</p>
+                                            <p>You leave Galle in the morning and travel to Kandy witnessing the change of scenery and climate. Arrive and check-in at hotel.</p>
+                                            <p>In Evening, you will visit the old royal city of kandy,magical and glamourous natural environment and beautifully nestled between green hills.Sri lankan people admire  the temple of  the  tooth relic as the blessing of the country.</p>
+                                            <p>then you will visit that adorable place which is the holiest  shrine in Sri Lanka, where the tooth relic of lord buddha is highly venerated.</p>
+                                            <p>As well you will have more opportunity to witness cultural dance performances, where you will see famous kandyan dances, as well as up-country and devil dances</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 05 (Kandy)</h3>
+                                            <p>After Breakfast at Hotel, commence a sightseeing tour of Kandy city including Gem museum, Art and craf centre and Bazar.</p>
+                                            <p>Transfer to Peradeniya. You visit the world famous botanical garden in peradeniya.As Sri Lanka’s largest garden an elegent and spacious 147-acres (60-hectares) plent of time is  needed to stroll peradeniya’s imposing avenue of Royal palms.</p>
+                                            <p>Check in to hotel and candle light dinner.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 06 (Kandy - Negombo)</h3>
+                                            <p>Breakfast at the hotel</p>
+                                            <p>Transfer to Negombo, a small fishing village on west coast of the country. Check-in to hotel in Negombo. Relax and recover from any jet lag.</p>
+                                            <p>In the evening period you will visit Negombo.</p>
+                                            <p>Check in to hotel and have dinner</p>
+                                        </li>
+                                        <li>
+                                            <h3>Dday 07 (Negombo - Colombo)</h3>
+                                            <p>After have breakfast you will leave for colombo international airfort with a non-valuable nice memories.end of the Tour.</p>
                                         </li>
                                     </ul>
                                 </div>

@@ -6,7 +6,7 @@
  * Time: 9:17 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -315,7 +315,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>3 Nights 4 Days Tour 4
+                        <h2>4 Days Tour #4
                             <!--<span>6 Nights 7 Days</span>-->
                         </h2>
                     </div>

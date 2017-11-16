@@ -3,10 +3,10 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:18 AM
+ * Time: 9:19 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -49,7 +49,6 @@
 <div class="preloader">
     <div class="status">&nbsp;</div>
 </div>
-
 
 <div id="layout">
 
@@ -268,246 +267,151 @@
     </header>
 
 
-    <div class="section-title-detailed">
+    <div class="section-title-01">
 
-        <div id="single-carousel">
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image3.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image3.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image14.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image14.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image16.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image16.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image18.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image18.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image20.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image20.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image22.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image22.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image24.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image24.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image27.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image27.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/9_Nights_10_Days/image28.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/9_Nights_10_Days/image28.jpeg" alt="" class="img-responsive">
-            </div>
-        </div>
+        <div class="bg_parallax image_06_parallax"></div>
 
 
-        <div class="title-detailed">
+        <div class="opacy_bg_02">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-9">
-                        <ul class="starts">
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
-                        </ul>
-                        <h2>9 Nights 10 Days
-                            <!--<span>6 Nights 7 Days</span>-->
-                        </h2>
-                    </div>
-                    <div class="col-md-3">
-                    </div>
+                <h1>Tours</h1>
+                <div class="crumbs">
+                    <ul>
+                        <li><a href="main.php">Home</a></li>
+                        <li>/</li>
+                        <li><a href="tour-list.php">Tours</a></li>
+                        <li>/</li>
+                        <li>4 Day Tour</li>
+                    </ul>
                 </div>
             </div>
         </div>
 
     </div>
 
+
     <div class="content-central">
 
+<!--        <div class="semiboxshadow text-center">-->
+<!--            <img src="img/img-theme/shp.png" class="img-responsive" alt="">-->
+<!--        </div>-->
+
+
         <div class="content_info">
+            <div class="container">
+                <div class="row">
 
-            <div class="content_resalt paddings-mini tabs-detailed">
-                <div class="container wow fadeInUp">
-                    <div class="row">
-                        <div class="col-md-12">
+                    <div class="col-md-12">
 
-                            <ul class="nav nav-tabs" id="myTab">
-                                <li class="active">
-                                    <a href="#plan" data-toggle="tab"><i class="fa fa-bicycle"></i> TOUR PLAN</a>
-                                </li>
-                                <li>
-                                    <a href="#destinations" data-toggle="tab"><i class="fa fa-map-marker"></i>
-                                        Destinations</a>
-                                </li>
-                                <li class="pull-right">
-                                    <a href="#"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
-                                </li>
-                            </ul>
-
-                            <div class="tab-content">
-
-                                <div class="tab-pane active" id="plan">
-                                    <ul>
-                                        <li>
-                                            <h3>Day 01 (Colombo)</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by Ceylon Travel Evoke
-                                                representative and directed to your guide. Colombo the capital of Sri
-                                                Lanka, has a long history as a port on ancient east-west trade routes,
-                                                ruled successively by the Portuguese, Dutch and British. At the evening
-                                                period is at leisure with dinner and overnight stay at the Hotel.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 02 (Colombo - Kandy)</h3>
-                                            <p>Breakfast at the Hotel and check out. You leave Colombo in the morning
-                                                and travel to Kandy witnessing the change of scenery and climate. Arrive
-                                                and check-in at hotel.</p>
-                                            <p>Evening, you will visit the old royal city of kandy,magical and
-                                                glamourous natural environment and beautifully nestled between green
-                                                hills.Sri lankan people admire the temple of the tooth relic as the
-                                                blessing of the country.then you will visit that adorable place which is
-                                                the holiest shrine in Sri Lanka, where the tooth relic of lord buddha is
-                                                highly venerated.As well you will have more opportunity to witness
-                                                cultural dance performances, where you will see famous kandyan dances,
-                                                as well as up-country and devil dances.</p>
-                                            <p>Return to the Hotel for dinner and over night stay.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 03 (Kandy - Peradeniya)</h3>
-                                            <p>After Breakfast at Hotel, commence a sightseeing tour of Kandy city
-                                                including Gem museum, Art and craf centre and Bazar.(if you are
-                                                interesting to visit this beautiful town by riding scooty, you will give
-                                                the facility for that too)</p>
-                                            <p>You visit the world famous botanical garden in peradeniya.As Sri Lanka’s
-                                                largest garden an elegent and spacious 147-acres (60-hectares) plent of
-                                                time is needed to stroll peradeniya’s imposing avenue of Royal
-                                                palms.</p>
-                                            <p>Candle light Dinner and overnight stay at the hotel in Peradeniya.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 04 (Peradeniya - Nuwara eliya)</h3>
-                                            <p>The beautiful town of Nuwara eliya, set in the heart of the Tea country
-                                                and situated 1890m above sea level,the climate here is rather cold
-                                                during winter time it is the coldest sometimes there will be frost.</p>
-                                            <p>Breakfast at the hotel and check-out.Travel to Nuwara eliya en route
-                                                visiting a tea plantation and a factory.Arrive and visit the city before
-                                                check-in at hotel for dinner and over night stay.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 05 (Nuwara eliya - Ella)</h3>
-                                            <p>After have Breakfast at the hotel and check out. Travel to Nanu oya to
-                                                take an enjoyable train journey to Ella.</p>
-                                            <p>Arrive and check in at the hotel for rest Dinner and over night stay at
-                                                the hotel.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 06 (Ella)</h3>
-                                            <p>Breakfast at the hotel and relax the whole day lazing in the cool
-                                                climate.</p>
-                                            <P>candle light dinner.</P>
-                                        </li>
-                                        <li>
-                                            <h3>Day 07 (Ella - Tangalle)</h3>
-                                            <p>After breakfast you will leave ella and drive along nice way which have
-                                                higher natural beauty.then you check in beach hotel in tangalle.Spend
-                                                your evening time relaxing by the beautiful Indian Ocean. Candle light
-                                                dinner and Overnight stay at Tangalle</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 08 (Tangalle)</h3>
-                                            <p>Breakfast at the hotel</p>
-                                            <p>Relax by the Beach</p>
-                                            <p>Overnight stay at Tangalle</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 09 (Tangale - Galle)</h3>
-                                            <p>Breakfast at the hotel</p>
-                                            <p>Transfer to Galle. The capital of the southern province is a city with a
-                                                colorful history. UNESCO declared world heritage site the magnificent
-                                                Dutch fort is the most popular attraction of the town. </p>
-                                            <p>You will visit Galle fort and in the evening period travel to Jungle
-                                                beach and relax by the beach (if you are interest to ride scooty we
-                                                provide that opportunity too)</p>
-                                            <p>In the evening period travel to Koggala and have a nice boat ride and
-                                                check into Koggala Lake.</p>
-                                            <p>Candle light Dinner and overnight stay at koggala</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 10 (Galle - Colombo)</h3>
-                                            <p>Breakfast at the hotel and transfer to the Airport for your
-                                                departure.</p>
-                                        </li>
-                                    </ul>
-                                </div>
-
-
-                                <div class="tab-pane" id="destinations">
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Hikkaduwa/@6.1277317,80.101522,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae177fbcae7226d:0x373eeb50aad15308!8m2!3d6.1394676!4d80.1062861?hl=en"><i
-                                                            class="fa fa-check"></i>Hikkaduwa</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Koggala/@6.0026938,80.3139207,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae16ccc65d32a85:0x47fdbb4441fdf8bf!8m2!3d6.000704!4d80.3352364?hl=en"><i
-                                                            class="fa fa-check"></i>Koggala</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li><a target="_blank"
-                                                       href="https://www.google.lk/maps/search/Kanneliya/@6.2472843,80.3448477,15.5z?hl=en"><i
-                                                            class="fa fa-check"></i>Kanneliya</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Bentota/@6.425699,79.9861482,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae22e900168ca21:0x96c438f00a68c060!8m2!3d6.4189175!4d80.005979?hl=en"><i
-                                                            class="fa fa-check"></i>Bentota</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Balapitiya/@6.2779305,80.0288341,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae180f06ea9bb1b:0x561e2543dfa329a5!8m2!3d6.2753892!4d80.0479039?hl=en"><i
-                                                            class="fa fa-check"></i>Balapitiya</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
+                        <div class="title-results">
+                            <h3></h3>
                         </div>
+
+
+                        <!--<div class="sort-by-container tooltip-hover">-->
+                        <!--<div class="row">-->
+                        <!--<div class="col-md-9">-->
+                        <!--<strong>Sort by:</strong>-->
+                        <!--<ul>-->
+                        <!--<li>-->
+                        <!--<div class="selector">-->
+                        <!--<select>-->
+                        <!--<option value="5">5 Starts</option>-->
+                        <!--<option value="4">4 Starts</option>-->
+                        <!--<option value="3">3 Starts</option>-->
+                        <!--<option value="2">2 Starts</option>-->
+                        <!--<option value="1">1 Starts</option>-->
+                        <!--</select>-->
+                        <!--<span class="custom-select">Users Rating</span>-->
+                        <!--</div>-->
+                        <!--</li>-->
+                        <!--</ul>-->
+                        <!--</div>-->
+                        <!--</div>-->
+                        <!--</div>-->
+
+
+                        <div class="row">
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+<!--                                <div class="img-hover">-->
+<!--                                    <img src="img/hotel_list/Classic_Tours.png" alt="" class="img-responsive">-->
+<!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        4 Day Tour #1<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Kandy, Nuwara Eliya, Ella.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="4_Day_Tour_1.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+<!--                                <div class="img-hover">-->
+<!--                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">-->
+<!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        4 Day Tours #2<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Kandy, Sigiriya, Sinharaja.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="4_Day_Tour_2.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <!--                                <div class="img-hover">-->
+                                <!--                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">-->
+                                <!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        4 Day Tours #3<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Hikkaduwa, Yala, Sinharaja, Rathnapura.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="4_Day_Tour_3.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <!--                                <div class="img-hover">-->
+                                <!--                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">-->
+                                <!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        4 Day Tours #4<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Hikkaduwa, Galle, Jungle beach, Rumassala, Mirissa, Koggala, Bentota.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="4_Day_Tour_4.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <!--<ul class="pagination">-->
+                        <!--<li><a href="#">«</a></li>-->
+                        <!--<li class="active"><a href="#">1</a></li>-->
+                        <!--<li><a href="#">2</a></li>-->
+                        <!--<li><a href="#">3</a></li>-->
+                        <!--<li><a href="#">4</a></li>-->
+                        <!--<li><a href="#">5</a></li>-->
+                        <!--<li><a href="#">»</a></li>-->
+                        <!--</ul>-->
+
                     </div>
+
                 </div>
             </div>
         </div>

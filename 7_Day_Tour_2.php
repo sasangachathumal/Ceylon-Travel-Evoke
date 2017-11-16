@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:20 AM
+ * Time: 9:17 AM
  */
 ?>
  
@@ -272,76 +272,22 @@
 
         <div id="single-carousel">
             <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image1.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image3.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/Classic_Mini_Tour/image1.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image3.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image3.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image2%20(3).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/Classic_Mini_Tour/image3.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image2%20(3).jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image6.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image4%20(3).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/Classic_Mini_Tour/image6.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image11.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image11.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image7.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image7.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image14.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image14.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image16.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image16.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image19.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image19.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image21.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image21.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image24.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image24.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image26.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image26.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/Classic_Mini_Tour/image28.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/Classic_Mini_Tour/image28.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image4%20(3).jpeg" alt="" class="img-responsive">
             </div>
         </div>
 
@@ -357,7 +303,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>Classic Mini Tour
+                        <h2>1 Days Tour #2
                             <!--<span>6 Nights 7 Days</span>-->
                         </h2>
                     </div>
@@ -396,99 +342,38 @@
                                 <div class="tab-pane active" id="plan">
                                     <ul>
                                         <li>
-                                            <h3>Day 01 (Colombo - Kandy)</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by Ceylon Travel Evoke
-                                                representative and directed to your guide. You leave Colombo in the
-                                                morning and drive along highways into the middle area of country. The
-                                                nature and calm environment will make you feel better. </p>
-                                            <p>In Pinnewela you will visit the elephant orphanage, where about eighty
-                                                elephants are well looked after, which have been found throughout the
-                                                country abandoned by their herd and brought there. In here you will have
-                                                a nice opportunity to watch milk feeding for baby jumbos and the daily
-                                                bath in nearby river.</p>
-                                            <p>After that you will visit the old royal city of kandy,magical and
-                                                glamourous natural environment and beautifully nestled between green
-                                                hills.Sri lankan people admire the temple of the tooth relic as the
-                                                blessing of the country.then you will visit that adorable place which is
-                                                the holiest shrine in Sri Lanka, where the tooth relic of lord buddha is
-                                                highly venerated.</p>
-                                            <p>In the evening period you will have more opportunity to see dance
-                                                performances, where you will see famous kandyan dances, as well as
-                                                up-country and devil dances.</p>
-                                            <p>Over night in kandy.</p>
+                                            <h3>Day 01 (Colombo)</h3>
+                                            <p>On arrival in Sri Lanka, You will be met and assist by Tour star representative and directed to your guide.Colombo the capital of Sri Lanka, has a long history as a port on ancient east-west trade routes, ruled successively by the Portuguese, Dutch and British. At the evening period is at leisure with dinner and overnight stay at the Hotel.</p>
+                                            <p>Candle Light Dinner.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 02 (Kandy - Sigiriya)</h3>
-                                            <p>After breakfast visit the world famous botanical garden in peradeniya.As
-                                                Sri Lanka’s largest garden an elegent and spacious 147-acres
-                                                (60-hectares) plent of time is needed to stroll peradeniya’s
-                                                imposingavenueofRoyal palms.The park dates back to 1371 under the reign
-                                                of king Vikramabahu III when he held court here.The English put the
-                                                cornerstone of the present garden in 1821.When today Royal Botanical
-                                                Garden attracts 2 million visitors annually .Here will see a wonderfull
-                                                collection of more than 4000 species of plants, including of orchids,
-                                                spices, medicinal plants and palm trees.</p>
-                                            <p>Then you will leave kandy and will prceed to one more different climate
-                                                and green environmental of the noarth.Along the road you will see paddy
-                                                fields, coconut graves, rubber and spice plants, bushes and plants
-                                                cropping spices.</p>
-                                            <p>After this experience, you will ascend for a visit the Dambulla cave
-                                                temple.this temple also known as the golden temple of Dambulla is a
-                                                world heritage site in Sri Lanka.This temple complex consists of five
-                                                separate caverns with numerous status of the Buddha and hindu
-                                                deities.</p>
-                                            <p>Overnight in Sigiriya</p>
+                                            <h3>Day 02 (Colombo - Kandy)</h3>
+                                            <p>Breakfast at the Hotel and check out.You leave Colombo in the morning and travel to Kandy witnessing the change of scenery and climate. Arrive and check-in at hotel.</p>
+                                            <p>Evening,you will visit the old royal city of kandy,magical and glamourous natural environment and beautifully nestled between green hills.Sri lankan people admire  the temple of  the  tooth relic as the blessing of the country.then you will visit that adorable place which is the holiest  shrine in Sri Lanka, where the tooth relic of lord buddha is highly venerated.As well you will have more opportunity to witness cultural dance performances, where you will see famous kandyan dances, as well as up-country and devil dances.</p>
+                                            <p>Return to the Hotel for dinner and over night stay.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 03 (Sigiriya - Polonnaruwa)</h3>
-                                            <p>After breakfast you will reach the Sigiriya rock. This impressive
-                                                monolith which rises 200 meters out of the jungle has been transferred
-                                                in 5th century by king Kashyapa into a fortress and become his capital.
-                                                Here you will see the frescoes of the Sigiriya maidens.</p>
-                                            <p>In the afternoon you will drive to the area which has a historical value
-                                                and long history of the island. In polonnaruwa you will have a chance to
-                                                visit well preserved remains of the city which has been the capital in
-                                                Sri Lanka from the 11th to the 13th century .you will see the excavation
-                                                , temples, dagobas, the royal place , the royal library and statues
-                                                chiseled by huge Granites.</p>
-                                            <p>Overnight Sigiriya</p>
+                                            <h3>Day 03 (Kandy - Peradeniya)</h3>
+                                            <P>After Breakfast at Hotel, commence a sightseeing tour of Kandy city including Gem museum, Art and craf centre and Bazar.(if you are interesting to visit this beautiful town by riding scooty, you will give the facility for that too)</P>
+                                            <p>You visit the world famous botanical garden in peradeniya.As Sri Lanka’s largest garden an elegent and spacious 147-acres (60-hectares) plent of time is  needed to stroll peradeniya’s imposing avenue of Royal palms.The park dates back to 1371 under the reign of king Vikramabahu III when he held court here.</p>
+                                            <p>Candle light Dinner and overnight stay at the hotel in Peradeniya.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 04 (Anuradhapura)</h3>
-                                            <p>After have your breakfast you will leave Sigiriya and enter to the city
-                                                which has cultural pride of a long history. You will visit the ancient
-                                                1st capital of Sri Lanka. If you have a deep interest of ancient places
-                                                and need to have a different experience with regarding history of Sri
-                                                Lanka this day will be a most important one in your journey.</p>
-                                            <p>You will have a great opportunity to visit some of the most famous as
-                                                well as the tallest Dagoba of the country; remains form places, temples,
-                                                monasteries, ceremonial bathes and the temple of the holy bo tree. This
-                                                city is a milestone of Sri Lankan culture as well as the largest city of
-                                                Sri Lanka. So you will have to spend more time to visit this spacious
-                                                ancient kingdom.</p>
-                                            <p>In the afternoon you will visit Isurumuniya. That is a Buddhist temple
-                                                situated near to the ThissaWewa. There are four cravings of special
-                                                interest in this Vihara. It is renowned for its stone cravings of which
-                                                the most famous is one known as “Isurumuniya lovers”. The Horsemen,
-                                                Elephant pond and the Royal Family are the other cravings which you can
-                                                see in this temple.</p>
-                                            <p>After this you will reach Mihinthalaya, and it’s a mountain peak near
-                                                Anuradapura.It is believed by Sri Lankans to be the site of a meeting
-                                                between Buddhist monk mihindu and king dewanampiyathissa which
-                                                inaugurated the presence of Buddhism in Sri Lanka.</p>
-                                            <p>Overnight Anuradapura</p>
+                                            <h3>Day 04 (Peradeniya - Nuwara eliya)</h3>
+                                            <p>Breakfast at the hotel and check-out.Travel to Nuwara eliya en route visiting a tea plantation and a factory.Arrive and visit the city before check-in at hotel for dinner and over night stay.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 05 (Anuradapura - Colombo)</h3>
-                                            <p>After breakfast you will drive to Yapahuwa in order to visit one more
-                                                ephemeral capitals of medieval in Sri Lanka. The citadel of Yapahuwa
-                                                lying midway between Kurunegala and Anuradapura was built around a huge
-                                                granite rock rising abruptly almost a hundred meters above the
-                                                surrounding law lands.</p>
-                                            <p>After the visit of that ancient place you leave for Colombo on the way
-                                                you pass natural green environmental whichcreate natural art of paddy
-                                                fields and coconut plantations you will reach Colombo or the airport in
-                                                the evening.</p>
+                                            <h3>Day 05 (Nuwara eliya - Ella)</h3>
+                                            <p>After have Breakfast at the hotel and check out. Travel to Nanu oya to take an enjoyable train journey to Ella.</p>
+                                            <p>Arrive and check in at the hotel for rest Dinner and over night stay at the hotel.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 06 (Ella)</h3>
+                                            <p>Ella is blessed with some of the most beautiful veiws you could enjoy in Sri Lanka.some of the places you could see in Ella are the Ella Gap, Rawna Ella Falls, Little Adams’peak among the other many varied pleasant walks with stunning scenery.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Dday 07 (Ella - Colombo)</h3>
+                                            <p>Breakfast at hotel and check-out hotel.You will travel to Colombo international airfort for your departure.</p>
                                         </li>
                                     </ul>
                                 </div>

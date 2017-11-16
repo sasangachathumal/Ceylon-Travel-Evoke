@@ -6,7 +6,7 @@
  * Time: 9:21 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -324,7 +324,7 @@
 
                         <div class="col-md-8">
                             <h3>Contact Form</h3>
-                            <form id="form-contact" class="form-theme" action="php/send-mail.php">
+                            <form id="contact_form" class="form-theme" action="contact-email-send.php">
                                 <input type="text" placeholder="Name" name="Name" required="">
                                 <input type="email" placeholder="Email" name="Email" required="">
                                 <input type="tel" placeholder="Phone" name="Phone" required="">
@@ -494,6 +494,26 @@
 
 <script type="text/javascript" src="js/main.js"></script>
 
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $("#contact_form").submit(function (e) {
+            e.preventDefault();
+            var $form = $(this);
+            $form.addClass('loading');
+            var formDataSerialized = $(this).serialize();
+            console.log(formDataSerialized);
+            $.post("contact-email-send.php", formDataSerialized, function (data) {
+                $form.removeClass('loading');
+                console.log("data", data);
+//                if (data == 'success') {
+//                    $('#contact_success').show();
+//                } else {
+//                    $('#contact_error').show();
+//                }
+            });
+        });
+    });
+</script>
 
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript">

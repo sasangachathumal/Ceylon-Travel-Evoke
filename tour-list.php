@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 
@@ -401,7 +401,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Rathnapura, Sinharaja, Balapitiya, Bentota.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="2_nights_3_Days.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="3_Day_tour.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -417,7 +417,7 @@
                                     <hr class="separator">
                                     <p>You can travel to Kandy, Peradeniya, Nuwara eliya, Ella, Tangalle, Galle.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="9_nights_10_Days.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="10_Day_Tour.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>

@@ -3,10 +3,10 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:17 AM
+ * Time: 9:16 AM
  */
 ?>
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 
@@ -272,34 +272,22 @@
 
         <div id="single-carousel">
             <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/7.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/3_Nights_4_days/4.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/3_Nights_4_days/7.jpeg" alt="" class="img-responsive">
+                <img src="img/3_Nights_4_days/4.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/8.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/3_Nights_4_days/5.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/3_Nights_4_days/8.jpeg" alt="" class="img-responsive">
+                <img src="img/3_Nights_4_days/5.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/9.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/3_Nights_4_days/6.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/3_Nights_4_days/9.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/10.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/3_Nights_4_days/10.jpeg" alt="" class="img-responsive">
-            </div>
-            <div class="img-hover">
-                <div class="overlay"><a href="img/3_Nights_4_days/11.jpeg" class="fancybox"
-                                        rel="gallery"></a>
-                </div>
-                <img src="img/3_Nights_4_days/11.jpeg" alt="" class="img-responsive">
+                <img src="img/3_Nights_4_days/6.jpeg" alt="" class="img-responsive">
             </div>
         </div>
 
@@ -315,7 +303,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>3 Nights 4 Days Tour 3
+                        <h2>4 Days Tour #2
                             <!--<span>6 Nights 7 Days</span>-->
                         </h2>
                     </div>
@@ -354,29 +342,23 @@
                                 <div class="tab-pane active" id="plan">
                                     <ul>
                                         <li>
-                                            <h3>Day 01(Colombo - Hikkaduwa))</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by our representative and directed to your guide. You leave Colombo and drive along highways into the southern area of country.</p>
-                                            <p>Check in to hotel and relax by the beach or hotel.</p>
-                                            <p>In evening period you visit Galle Dutch fort. Galle fort is a one of most attractive Place in Southern Sri Lanka.</p>
+                                            <h3>Day 01(Colombo - Kandy)</h3>
+                                            <p>Arrival in Colombo International Airport and meet with our representative at the arrival lounge you leave Colombo in the morning and travel to Kandy witnessing the change of scenery and climate. Arrive and check-in at hotel.</p>
+                                            <p>In the Evening, you will visit the old royal city of kandy,magical and glamourous natural environment and beautifully nestled between green hills.Sri lankan people admire  the temple of  the  tooth relic as the blessing of the country.then you will visit that adorable place which is the holiest  shrine in Sri Lanka, where the tooth relic of lord buddha is highly venerated.As well you will have more opportunity to witness cultural dance performances, where you will see famous kandyan dances, as well as up-country and devil dances.</p>
+                                            <p>Return to the Hotel for dinner and over night stay at Kandy</p>
                                         </li>
                                         <li>
-                                            <h3>Day 02(Hikkaduwa - Yala)</h3>
-                                            <p>Breakfast at the hotel and transfer to Yala national park, Yala is an ideal place to spot the “Big Four” of  Sri Lankan wildlife, the elephants, the sloth bears the illusive leopard and the wild buffalo, the unsung denizen of the park, if nothing else dangerous to the extreame. You will drive to Yala Safari camp.</p>
-                                            <ul>
-                                                <li>Lunch at the camp</li>
-                                                <li>Evening game drive</li>
-                                                <li>BBQ Dinner and overnight stay at the camp</li>
-                                            </ul>
+                                            <h3>Day 02 (Kandy - Sigiriya)</h3>
+                                            <p>After breakfast visit the world famous botanical garden in peradeniya.As Sri Lanka’s largest garden an elegent and spacious 147-acres (60-hectares) plent of time is  needed to stroll peradeniya’s imposing avenue of Royal palms.</p>
+                                            <p>Then you will leave kandy and will prceed to one more different climate and green environmental of the noarth.Along the road  you will see paddy fields, coconut graves, rubber and spice plants, bushes and plants cropping spices.</p>
+                                            <p>After this experience, you will ascend for a visit the Dambulla cave temple.this temple  also known as the golden temple of Dambulla is a world heritage site in Sri Lanka.This temple complex consists of five separate caverns with numerous status of the Buddha and  hindu deities.</p>
+                                            <p>Next you will reach the Sigiriya rock. This impressive monolith which rises 200 meters out of the jungle has been transferred in 5th century by king Kashyapa into a fortress and become his capital. Here you will see the frescoes of the Sigiriya maidens.</p>
+                                            <p>Overnight in Sigiriya</p>
                                         </li>
                                         <li>
-                                            <h3>Day 03 (Yala - Sinharaja - Rathnapura)</h3>
-                                            <p>Early morning Game drive and after that you will have the breakfast at the camp. Then will transfer to Rathnapura and relax Short time period by the hotel and visit Ratthnapura Gem museum and the villages which are hold gem mining as the main income source.</p>
-                                            <P>After Breakfast you leave for Sinharaja nature reserve for a day of bird watching and trekking through the forest. Declared a UNESCO World Heritage Site, it is the least distributed and biologically unique lowland rain forest remaining in Sri Lanka.</P>
-                                            <P>Overnight stay at Rathnapuara</P>
-                                        </li>
-                                        <li>
-                                            <h3>Day 04(Rathnapura - Colombo)</h3>
-                                            <p>Have Breakfast at the hotel and you will transfer to Colombo international Airport.</p>
+                                            <h3>Day 03(Sigiriya - Sinharaja - Colombo)</h3>
+                                            <p>Have Breakfast at hotel and Transfer to sinharaja Rain forest in early morning. Sinharaja Forest reserve is a national park and a biodiversity hotspot in Sri Lanka. It is of international significance and has been designated a biosphere Reserve and World Heritage site by UNESCO.</p>
+                                            <p>After visit The Rain Forest You will leave Rathnapura and transfer to Colombo in the evening period.</p>
                                         </li>
                                     </ul>
                                 </div>
