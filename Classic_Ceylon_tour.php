@@ -578,35 +578,64 @@
 
                                 <div class="tab-pane" id="destinations">
                                     <div class="row">
-                                        <div class="col-md-4">
+                                        <div class="col-md-3">
                                             <ul class="list-styles">
                                                 <li>
                                                     <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Hikkaduwa/@6.1277317,80.101522,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae177fbcae7226d:0x373eeb50aad15308!8m2!3d6.1394676!4d80.1062861?hl=en"><i
-                                                            class="fa fa-check"></i>Hikkaduwa</a></li>
+                                                       href="https://goo.gl/maps/sSziTLdGrpm"><i
+                                                            class="fa fa-check"></i>Colombo</a></li>
                                                 <li>
                                                     <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Koggala/@6.0026938,80.3139207,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae16ccc65d32a85:0x47fdbb4441fdf8bf!8m2!3d6.000704!4d80.3352364?hl=en"><i
-                                                            class="fa fa-check"></i>Koggala</a></li>
+                                                       href="https://goo.gl/maps/oum5ZHDxky32"><i
+                                                            class="fa fa-check"></i>Galle</a></li>
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/i4BscEEADUz"><i
+                                                            class="fa fa-check"></i>Sinharaja</a></li>
                                             </ul>
                                         </div>
-                                        <div class="col-md-4">
+                                        <div class="col-md-3">
                                             <ul class="list-styles">
-                                                <li><a target="_blank"
-                                                       href="https://www.google.lk/maps/search/Kanneliya/@6.2472843,80.3448477,15.5z?hl=en"><i
-                                                            class="fa fa-check"></i>Kanneliya</a></li>
                                                 <li>
                                                     <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Bentota/@6.425699,79.9861482,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae22e900168ca21:0x96c438f00a68c060!8m2!3d6.4189175!4d80.005979?hl=en"><i
-                                                            class="fa fa-check"></i>Bentota</a></li>
+                                                       href="https://goo.gl/maps/LeNjD3ujeA82"><i
+                                                            class="fa fa-check"></i>Rathnapura</a></li>
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/wAudFP72sbB2"><i
+                                                            class="fa fa-check"></i>Kandy</a></li>
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/6WwZnzmKnEK2"><i
+                                                            class="fa fa-check"></i>Dambulla</a></li>
                                             </ul>
                                         </div>
-                                        <div class="col-md-4">
+                                        <div class="col-md-3">
                                             <ul class="list-styles">
                                                 <li>
                                                     <a target="_blank"
-                                                       href="https://www.google.lk/maps/place/Balapitiya/@6.2779305,80.0288341,14z/data=!3m1!4b1!4m5!3m4!1s0x3ae180f06ea9bb1b:0x561e2543dfa329a5!8m2!3d6.2753892!4d80.0479039?hl=en"><i
-                                                            class="fa fa-check"></i>Balapitiya</a></li>
+                                                       href="https://goo.gl/maps/L4cU2hRVh2R2"><i
+                                                            class="fa fa-check"></i>Sigiriya</a></li>
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/eAzjgYe6eZs"><i
+                                                            class="fa fa-check"></i>Trincomalee</a></li>
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/ZCcczMRV8Yv"><i
+                                                            class="fa fa-check"></i>Polonnaruwa</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <ul class="list-styles">
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/oPVX4nEHPCB2"><i
+                                                            class="fa fa-check"></i>Anuradapura</a></li>
+                                                <li>
+                                                    <a target="_blank"
+                                                       href="https://goo.gl/maps/PzKbjPfPvVw"><i
+                                                            class="fa fa-check"></i>Negombo</a></li>
                                             </ul>
                                         </div>
                                     </div>
