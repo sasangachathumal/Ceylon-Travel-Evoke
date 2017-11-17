@@ -43,6 +43,21 @@
     <script src="js/responsive/html5shiv.js"></script>
     <script src="js/responsive/respond.js"></script>
     <![endif]-->
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+            s1.async=true;
+            s1.src='https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
+            s1.charset='UTF-8';
+            s1.setAttribute('crossorigin','*');
+            s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
 </head>
 <body>
 
@@ -303,8 +318,8 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>1 Days Tour #3
-                            <!--<span>6 Nights 7 Days</span>-->
+                        <h2>7 Days Tour #3
+                            <span></span>
                         </h2>
                     </div>
                     <div class="col-md-3">
@@ -362,7 +377,7 @@
                                             <p>Candle light dinner.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 04 (Galle - Kandy))</h3>
+                                            <h3>Day 04 (Galle - Kandy)</h3>
                                             <p>Breakfast at the hotel</p>
                                             <p>You leave Galle in the morning and travel to Kandy witnessing the change of scenery and climate. Arrive and check-in at hotel.</p>
                                             <p>In Evening, you will visit the old royal city of kandy,magical and glamourous natural environment and beautifully nestled between green hills.Sri lankan people admire  the temple of  the  tooth relic as the blessing of the country.</p>

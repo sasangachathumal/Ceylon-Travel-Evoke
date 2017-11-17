@@ -287,22 +287,22 @@
 
         <div id="single-carousel">
             <div class="img-hover">
-                <div class="overlay"><a href="img/7-day-tours/image1%20(3).jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image13.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/7-day-tours/image1%20(3).jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image13.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/7-day-tours/image1.jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image28.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/7-day-tours/image1.jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image28.jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/7-day-tours/image2%20(2).jpeg" class="fancybox"
+                <div class="overlay"><a href="img/7-day-tours/image32.jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/7-day-tours/image2%20(2).jpeg" alt="" class="img-responsive">
+                <img src="img/7-day-tours/image32.jpeg" alt="" class="img-responsive">
             </div>
         </div>
 
@@ -318,7 +318,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>7 Days Tour #1
+                        <h2>7 Days Tour #5
                             <span></span>
                         </h2>
                     </div>
@@ -357,43 +357,49 @@
                                 <div class="tab-pane active" id="plan">
                                     <ul>
                                         <li>
-                                            <h3>Day 01(Colombo - Hikkaduwa)</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by our representative
-                                                and directed to your guide. You will Transfer to Hikkaduwa</p>
-                                            <P>Check into hotel at Hikkaduwa</P>
-                                            <p>Relax by the beach</p>
+                                            <h3>Day 01 (Colombo - Hikkaduwa)</h3>
+                                            <p>On arrival in Sri Lanka, You will be met and assist by Tour star representative and directed to your guide. You leave Colombo and drive along highways into the southern area of country. At the evening period is at leisure with candlelight dinner and overnight stay at the Hotel.</p>
+                                            <p>Check in to hotel.</p>
+                                            <p>At the evening period is at leisure with candlelight dinner.</p>
+                                            <p>Overnight stay at the Hotel.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 02 (Hikkaduwa)</h3>
-                                            <p>You will have Breakfast at the Hotel.</p>
-                                            <p>Relax by the beach.</p>
-                                            <p>Candle light Dinner</p>
+                                            <h3>Day 02 (Hikkaduwa - Galle)</h3>
+                                            <p>Breakfast at the Hotel and Transfer to Galle, the capital of the southern province is a city with a colorful history. UNESCO declared world heritage site the magnificent Dutch fort is the most popular attraction of the town. You will visit Galle fort and in the evening period travel to Jungle beach and relax by the beach.</p>
+                                            <p>Jungle beach is one of most attractive coastal area in southern province. You will have nice experience in here too.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 03 (Hikkaduwa - Galle)</h3>
-                                            <p>Breakfast at the Hotel and Transfer to Galle, the capital of the southern province is a city with a colorful history. UNESCO declared world heritage site the magnificent Dutch fort is the most popular attraction of the town. You will visit galle fort and in the evening period travel to Jungle beach and relax by the beach.</p>
-                                            <p>Check into hotel and candle light dinner.</p>
-                                            <p>Overnight Stay at Galle</p>
+                                            <h3>Day 03 (Maaduriver - Bentota)</h3>
+                                            <p>Have Breakfast and check-out hotel. You will leave Galle and transfer to balapitiya. Then you will have nice Opportunity to get an enjoyable boat Safari on Madu River.</p>
+                                            <p>Check into Hotel.</p>
+                                            <p>Candle Light Dinner</p>
                                         </li>
                                         <li>
-                                            <h3>Day 04 (Galle - Yala)</h3>
-                                            <p>Breakfast at the hotel and transfer to Yala national park, Yala is an ideal place to spot the “Big Four” of  Sri Lankan wildlife, the elephants, the sloth bears the illusive leopard and the wild buffalo, the unsung denizen of the park, if nothing else dangerous to the extreme.You will drive to Yala Safari camp.</p>
-                                            <p>Lunch at the camp.</p>
-                                            <p>Evening game drive.</p>
-                                            <p>BBQ Dinner and overnight stay at the camp.</p>
+                                            <h3>Day 04 (Bentota)</h3>
+                                            <p>Spend the full day at leisure in bentota delightfully located along one of the finest beaches on the south west coast. Spend the afternoon at leisure watching the waves as they bounce off the sun-kissed sands.</p>
+                                            <p>If you need to have Sri Lankan Ayurveda massage and therapy you will be able have Ayurveda spa service in there.</p>
+                                            <p>Candle Light Dinner</p>
                                         </li>
                                         <li>
-                                            <h3>Day 05(Yala - Koggala)</h3>
-                                            <p>Early morning Game drive and after that you will have the breakfast at the camp .Then will transfer to Koggala and relax evening period by the hotel</p>
+                                            <h3>Day 05 (Colombo)</h3>
+                                            <p>Breakfast at hotel and you will drive to Colombo. Colombo the capital of Sri Lanka, has a long history as a port on ancient east-west trade routes, ruled successively by the Portuguese, Dutch and British. You will visit Colombo with our friendly guider leisurely.</p>
+                                            <p>Candle Light Dinner</p>
                                         </li>
                                         <li>
-                                            <h3>Day 06(Koggala)</h3>
-                                            <p>Breakfast at the hotel and leave for Koggala and Boat ride in koggala. Koggala Lake is an un-spoiled lake located in Southern province. It will feel like a paradise for natural lovers, The Lake is embellished with rocky islands, animals and shrubs. You can explore whole the area and all the islands.It is quite tremendous for bird watching and sunset sceneries in the evening.</p>
-                                            <p>Candle light dinner.</p>
+                                            <h3>Day 06(Colombo - Kandy)</h3>
+                                            <p>You leave Colombo in the morning and drive along highways into the middle area of country. The nature and calm environment will make you feel better.</p>
+                                            <p>In Pinnewela you will visit the elephant orphanage, where about eighty elephants are well looked after, which have been found throughout the country abandoned by their herd and brought there. In here you will have a nice opportunity to watch milk feeding for baby jumbos and the daily bath in nearby river.</p>
+                                            <p>After that you will visit the old royal city of kandy,magical and glamourous natural environment and beautifully nestled between green hills.Sri lankan people admire  the temple of  the  tooth relic as the blessing of the country.then you will visit that adorable place which is the holiest  shrine in Sri Lanka, where the tooth relic of lord buddha is highly venerated.</p>
+                                            <p>In the evening period you will have more opportunity to see dance performances, where you will see famous kandyan dances, as well as up-country and devil dances.</p>
                                         </li>
                                         <li>
-                                            <h3>Day 07 (Koggala - Colombo)</h3>
-                                            <p>Have Breakfast at the hotel and transfer to Colombo international airport for your departure.</p>
+                                            <h3>Day 06 (Kandy - Sigiriya)</h3>
+                                            <p>After breakfast visit the world famous botanical garden in peradeniya.As Sri Lanka’s largest garden an elegent and spacious 147-acres (60-hectares) plent of time is  needed to stroll peradeniya’s imposingavenueofRoyal palms and Dambulla cave temple in the morning time.</p>
+                                            <p>After Lunch you will reach the Sigiriya rock. This impressive monolith which rises 200 meters out of the jungle has been transferred in 5th century by king Kashyapa into a fortress and become his capital. Here you will see the frescoes of the Sigiriya maidens.</p>
+                                        </li>
+                                        <li>
+                                            <h3>Day 07 (Sigiriya - Colombo)</h3>
+                                            <p>Last day of Tour, Breakfast at the hotel and you will transfer to Colombo international airport for your departure.</p>
                                         </li>
                                     </ul>
                                 </div>

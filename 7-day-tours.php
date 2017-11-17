@@ -43,6 +43,21 @@
     <script src="js/responsive/html5shiv.js"></script>
     <script src="js/responsive/respond.js"></script>
     <![endif]-->
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+            s1.async=true;
+            s1.src='https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
+            s1.charset='UTF-8';
+            s1.setAttribute('crossorigin','*');
+            s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
 </head>
 <body>
 
@@ -281,7 +296,7 @@
                         <li>/</li>
                         <li><a href="tour-list.php">Tours</a></li>
                         <li>/</li>
-                        <li>4 Day Tour</li>
+                        <li>7 Day Tour</li>
                     </ul>
                 </div>
             </div>
@@ -339,12 +354,12 @@
 <!--                                </div>-->
                                 <div class="info-gallery">
                                     <h3>
-                                        4 Day Tour #1<br>
+                                        7 Day Tour #1<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Kandy, Nuwara Eliya, Ella.</p>
+                                    <p>You can travel to Colombo, Hikkaduwa, Galle, Yala, Koggala.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="4_Day_Tour_1.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="7_Day_Tour_1.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -355,12 +370,12 @@
 <!--                                </div>-->
                                 <div class="info-gallery">
                                     <h3>
-                                        4 Day Tours #2<br>
+                                        7 Day Tours #2<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Kandy, Sigiriya, Sinharaja.</p>
+                                    <p>You can travel to Colombo, Kandy, Peradeniya, Nuwara eliya, Ella.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="4_Day_Tour_2.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="7_Day_Tour_2.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -371,12 +386,12 @@
                                 <!--                                </div>-->
                                 <div class="info-gallery">
                                     <h3>
-                                        4 Day Tours #3<br>
+                                        7 Day Tours #3<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Hikkaduwa, Yala, Sinharaja, Rathnapura.</p>
+                                    <p>You can travel to Colombo, Bentota, Galle, Koggala, Kandy, Negombo.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="4_Day_Tour_3.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="7_Day_Tour_3.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
@@ -387,12 +402,28 @@
                                 <!--                                </div>-->
                                 <div class="info-gallery">
                                     <h3>
-                                        4 Day Tours #4<br>
+                                        7 Day Tours #4<br>
                                     </h3>
                                     <hr class="separator">
-                                    <p>You can travel to Hikkaduwa, Galle, Jungle beach, Rumassala, Mirissa, Koggala, Bentota.</p>
+                                    <p>You can travel to Colombo, Negombo, Kandy, Ella, Kithulgala, Bentota, Galle.</p>
                                     <br><hr class="separator">
-                                    <div class="content-btn"><a href="4_Day_Tour_4.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="content-btn"><a href="7_Day_Tour_4.php" class="btn btn-primary">View Details</a></div>
+                                    <div class="price"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <!--                                <div class="img-hover">-->
+                                <!--                                    <img src="img/hotel_list/9_Nights_10_Days.png" alt="" class="img-responsive">-->
+                                <!--                                </div>-->
+                                <div class="info-gallery">
+                                    <h3>
+                                        7 Day Tours #5<br>
+                                    </h3>
+                                    <hr class="separator">
+                                    <p>You can travel to Colombo, Hikkaduwa, Galle, Maaduriver, Bentota, Kandy, Sigiriya.</p>
+                                    <br><hr class="separator">
+                                    <div class="content-btn"><a href="7_Day_Tour_5.php" class="btn btn-primary">View Details</a></div>
                                     <div class="price"></div>
                                 </div>
                             </div>
