@@ -366,7 +366,7 @@
                                         Destinations</a>
                                 </li>
                                 <li class="pull-right">
-                                    <a href="#"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
+                                    <a href="bookTour.php?tour=South Sri Lanka Tour Package&type=SST"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
                                 </li>
                             </ul>
 

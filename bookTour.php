@@ -5,8 +5,11 @@
  * Date: 11/13/2017
  * Time: 9:19 AM
  */
+
+$tour = $_GET['tour'];
+$type = $_GET['type'];
 ?>
- 
+
 <html lang="en">
 <head>
 
@@ -46,14 +49,14 @@
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
-        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-        (function(){
-            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-            s1.async=true;
-            s1.src='https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
-            s1.charset='UTF-8';
-            s1.setAttribute('crossorigin','*');
-            s0.parentNode.insertBefore(s1,s0);
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
         })();
     </script>
     <!--End of Tawk.to Script-->
@@ -326,25 +329,33 @@
                             <p>Let us know what type of Holiday tour and accommodation you would prefer. Tell us</p>
                             <p>What you like to do, what you like to see during Your Holiday. Our Traval experts will
                                 get back to you within 24 hours and help you to design you dream tour to Sri Lanka.</p>
-                            <p>Fill The Below form and submit. Do provide maximum information which you are able to provide.</p>
-                            <form id="form-contact" class="form-theme" action="php/send-mail.php">
+                            <p>Fill The Below form and submit. Do provide maximum information which you are able to
+                                provide.</p>
+                            <form id="formBooking" class="form-theme" action="booking-email-send.php">
                                 <h3>Tour Details</h3>
-                                <label>Date of Arrival</label>
-                                <input class="form-control" type="date" name="DateOfArrival" required>
-                                <label>Date of Departure</label>
-                                <input class="form-control" type="date" name="DateOfDeparture" required>
+                                <label for="DateOfArrival">Date of Arrival*</label>
+                                <input id="DateOfArrival" class="form-control" type="date" name="DateOfArrival"
+                                       required>
+                                <label for="DateOfDeparture">Date of Departure*</label>
+                                <input class="form-control" type="date" name="DateOfDeparture" id="DateOfDeparture"
+                                       required>
                                 <h4>Number of guests</h4>
-                                <label>Adults</label>
-                                <input class="form-control" type="number" name="Adults" required>
-                                <label>Children (06 – 12 Years)</label>
-                                <input class="form-control" type="number" name="Children" required>
-                                <label>Children (below 05 Years)</label>
-                                <input class="form-control" type="number" name="Children" required>
-                                <label>Number of rooms required</label>
-                                <input class="form-control" type="number" name="Children" required>
+                                <label for="Adults">Adults*</label>
+                                <input class="form-control" type="number" name="Adults" id="Adults" required>
+                                <?php if ($type != 'honeymoon') { ?>
+                                    <label for="Children612">Children (06 – 12 Years)</label>
+                                    <input class="form-control" type="number" name="Children612" id="Children612">
+                                    <label for="Children5">Children (below 05 Years)</label>
+                                    <input class="form-control" type="number" name="Children5" id="Children5">
+                                <?php } ?>
+                                <label for="roomCount">Number of rooms required*</label>
+                                <input class="form-control" type="number" name="roomCount" id="roomCount" required>
+                                <hr>
                                 <h4>To Design a tour</h4>
-                                What kind of Holiday does You Prefer in Sri Lanka<br>
-                                <select class="form-control">
+                                <label for="package">Please Enter Tour Package Name (optional)</label>
+                                <input type="text" name="package" id="package" value="<?php echo $tour ?>">
+                                <label for="kind">What kind of Holiday does You Prefer in Sri Lanka*</label>
+                                <select class="form-control" required name="kind" id="kind">
                                     <option selected disabled></option>
                                     <option>Wild, Adventurous and Hiking</option>
                                     <option>Fun and Exciting</option>
@@ -352,8 +363,8 @@
                                     <option>Thought provoking and Peaceful</option>
                                     <option>Healthy and Rejuvenating</option>
                                 </select><br>
-                                What would you like to see in your Holiday?<br>
-                                <select class="form-control">
+                                <label for="see">What would you like to see in your Holiday?*</label>
+                                <select class="form-control" required name="see" id="see">
                                     <option selected disabled></option>
                                     <option>Mountains & Waterfalls</option>
                                     <option>Beaches</option>
@@ -361,8 +372,8 @@
                                     <option>Wildlife</option>
                                     <option>Flora and Fauna</option>
                                 </select><br>
-                                What is the most important Facility which you hope?<br>
-                                <select class="form-control">
+                                <label for="facility">What is the most important Facility which you hope?*</label>
+                                <select class="form-control" required name="facility" id="facility">
                                     <option selected disabled></option>
                                     <option>Comfortable Accommodation Facility</option>
                                     <option>Communication</option>
@@ -370,27 +381,38 @@
                                     <option>Transportation</option>
                                     <option>Guide Assistance</option>
                                 </select><br>
-                                What Kind of Accommodation pleases you??<br>
-                                <select class="form-control">
+                                <label for="accommodation">What Kind of Accommodation pleases you?*</label>
+                                <select class="form-control" required name="accommodation" id="accommodation">
                                     <option selected disabled></option>
                                     <option>Budget Guesthouses</option>
                                     <option>2-3 Star hotels</option>
                                     <option>4-5 Star Hotels</option>
                                 </select><br>
-                                If you have any Special Requests<br>
-                                <textarea></textarea>
+                                <label for="requests">If you have any Special Requests</label>
+                                <textarea name="requests" id="requests"></textarea>
+                                <hr>
                                 <h4>Personal Information</h4>
-                                <label>Name</label>
-                                <input type="text">
-                                <label>Email</label>
-                                <input type="email">
-                                <label>Contact Number</label>
-                                <input type="tel">
-                                <label>Country</label>
-                                <input type="text">
-                                <input type="submit" name="Submit" value="Send Message" class="btn btn-primary">
+                                <label for="customerName">Name*</label>
+                                <input type="text" required name="customerName" id="customerName">
+                                <label for="customerEmail">Email*</label>
+                                <input type="email" required name="customerEmail" id="customerEmail">
+                                <label for="customerTel">Contact Number*</label>
+                                <input type="tel" required name="customerTel" id="customerTel">
+                                <label for="customerCountry">Country*</label>
+                                <input type="text" required name="customerCountry" id="customerCountry">
+                                <input type="submit" name="Submit" value="Send Tour Plan" class="btn btn-primary">
                             </form>
-                            <div id="result"></div>
+                            <div id="result">
+                                <div id="booking_error" hidden class="alert alert-danger alert-dismissable">
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                                    <strong>Error!</strong> Contact email sending failed. Please try again.
+                                </div>
+                                <div id="booking_success" hidden class="alert alert-success alert-dismissable">
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                                    Contact email was <strong>successfully</strong> sent. Our agent will contact you as
+                                    soon as possible.
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -553,6 +575,32 @@
 
 <script type="text/javascript" src="js/main.js"></script>
 
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $("#formBooking").submit(function (e) {
+            e.preventDefault();
+            var $form = $(this);
+            $form.addClass('disable-click');
+            var formDataSerialized = $(this).serialize();
+            console.log($(this));
+            $.post("booking-email-send.php", formDataSerialized, function (data) {
+                $form.removeClass('disable-click');
+                console.log(data);
+//                if (data == 'success') {
+//                    $('#booking_success').fadeIn();
+//                    setTimeout(function () {
+//                        $('#booking_success').fadeOut("slow");
+//                    }, 3000);
+//                } else {
+//                    $('#booking_error').fadeIn();
+//                    setTimeout(function () {
+//                        $('#booking_error').fadeOut("slow");
+//                    }, 3000);
+//                }
+            });
+        });
+    });
+</script>
 
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript">

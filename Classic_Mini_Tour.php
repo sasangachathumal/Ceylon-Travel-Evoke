@@ -402,7 +402,7 @@
                                         Destinations</a>
                                 </li>
                                 <li class="pull-right">
-                                    <a href="#"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
+                                    <a href="bookTour.php?tour=Classic Mini Tour Package&type=CCT"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
                                 </li>
                             </ul>
 

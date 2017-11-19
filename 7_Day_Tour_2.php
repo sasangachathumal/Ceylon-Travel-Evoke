@@ -348,7 +348,7 @@
                                         Destinations</a>
                                 </li>
                                 <li class="pull-right">
-                                    <a href="#"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
+                                    <a href="bookTour.php?tour=7 Day Tour Package 2&type=honeymoon"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
                                 </li>
                             </ul>
 

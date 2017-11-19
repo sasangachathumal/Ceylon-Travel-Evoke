@@ -360,7 +360,7 @@
                                         Destinations</a>
                                 </li>
                                 <li class="pull-right">
-                                    <a href="#"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
+                                    <a href="bookTour.php?tour=4 Day Tour Package&type=4day"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
                                 </li>
                             </ul>
 
