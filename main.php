@@ -1,4 +1,3 @@
- 
 <html lang="en">
 <head>
 
@@ -40,14 +39,14 @@
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
-        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-        (function(){
-            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-            s1.async=true;
-            s1.src='https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
-            s1.charset='UTF-8';
-            s1.setAttribute('crossorigin','*');
-            s0.parentNode.insertBefore(s1,s0);
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
         })();
     </script>
     <!--End of Tawk.to Script-->
@@ -213,7 +212,8 @@
                 <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000"
                     data-saveperformance="off" data-title="Slide">
 
-                    <img src="img/slide/image_13.jpg" alt="fullslide1" data-bgposition="center center" data-kenburns="on"
+                    <img src="img/slide/image_13.jpg" alt="fullslide1" data-bgposition="center center"
+                         data-kenburns="on"
                          data-duration="6000" data-ease="Linear.easeNone" data-bgfit="130" data-bgfitend="100"
                          data-bgpositionend="right center">
 
@@ -255,8 +255,8 @@
 
             <div class="title-header">
                 <h1>Travel With Your Dreams</h1>
-                <p class="lead">Book cheap hotels and make payment facilities, free cancellation when the hotel so
-                    provides, compare prices and find all the options for your vacation.</p>
+                <p class="lead">We are Ceylon Travel Evoke. We provide you best travel agency service in SriLanka.<br>
+                    <strong>Let's travel with us</strong></p>
             </div>
 
         </div>
@@ -444,7 +444,8 @@
                 <div class="item-boxed">
                     <div class="image-boxed">
                         <span class="overlay"></span>
-                        <img src="img/home-page-popular-tours/South_SriLanka_Tour.jpeg" alt="South Sri Lanka Tour" style="cursor: default;">
+                        <img src="img/home-page-popular-tours/South_SriLanka_Tour.jpeg" alt="South Sri Lanka Tour"
+                             style="cursor: default;">
                     </div>
                     <div class="info-boxed boxed-top">
                         <h3>
@@ -469,7 +470,8 @@
                 <div class="item-boxed">
                     <div class="image-boxed">
                         <span class="overlay"></span>
-                        <img src="img/home-page-popular-tours/Hiking_SriLanka.jpeg" alt="Hiking Sri Lanka" style="cursor: default;">
+                        <img src="img/home-page-popular-tours/Hiking_SriLanka.jpeg" alt="Hiking Sri Lanka"
+                             style="cursor: default;">
                     </div>
                     <div class="info-boxed boxed-top">
                         <h3>
@@ -511,7 +513,8 @@
                     </div>
                     <div class="image-boxed image-bottom">
                         <span class="overlay"></span>
-                        <img src="img/home-page-popular-tours/Classic_Mini_Tour.jpeg" alt="Classic Mini Tour" style="cursor: default;">
+                        <img src="img/home-page-popular-tours/Classic_Mini_Tour.jpeg" alt="Classic Mini Tour"
+                             style="cursor: default;">
                     </div>
                 </div>
 
@@ -536,7 +539,8 @@
                     </div>
                     <div class="image-boxed image-bottom">
                         <span class="overlay"></span>
-                        <img src="img/home-page-popular-tours/7_Days_Tours_(Honeymoon).jpeg" alt="7 Days Tours" style="cursor: default;">
+                        <img src="img/home-page-popular-tours/7_Days_Tours_(Honeymoon).jpeg" alt="7 Days Tours"
+                             style="cursor: default;">
                     </div>
                 </div>
 
@@ -567,7 +571,8 @@
                 <div class="item-boxed">
                     <div class="image-boxed">
                         <span class="overlay"></span>
-                        <img src="img/home-page-popular-tours/2_&_9_Days_Tour.jpeg" alt="2 & 9 Days Tour" style="cursor: default;">
+                        <img src="img/home-page-popular-tours/2_&_9_Days_Tour.jpeg" alt="2 & 9 Days Tour"
+                             style="cursor: default;">
                     </div>
                     <div class="info-boxed">
                         <h3>
