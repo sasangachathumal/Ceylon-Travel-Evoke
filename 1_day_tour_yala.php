@@ -3,10 +3,10 @@
  * Created by PhpStorm.
  * User: SMSC
  * Date: 11/13/2017
- * Time: 9:17 AM
+ * Time: 9:13 AM
  */
 ?>
- 
+
 <html lang="en">
 <head>
 
@@ -48,14 +48,14 @@
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
-        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-        (function(){
-            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-            s1.async=true;
-            s1.src='https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
-            s1.charset='UTF-8';
-            s1.setAttribute('crossorigin','*');
-            s0.parentNode.insertBefore(s1,s0);
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5a0f0555bb0c3f433d4c9cf6/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
         })();
     </script>
     <!--End of Tawk.to Script-->
@@ -104,22 +104,28 @@
 
         <div id="single-carousel">
             <div class="img-hover">
-                <div class="overlay"><a href="img/7-day-tours/image4%20(4).jpeg" class="fancybox"
+                <div class="overlay"><a href="img/1_day_tours/image1yala%20(1).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/7-day-tours/image4%20(4).jpeg" alt="" class="img-responsive">
+                <img src="img/1_day_tours/image1yala%20(1).jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/7-day-tours/image9%20(2).jpeg" class="fancybox"
+                <div class="overlay"><a href="img/1_day_tours/image1yala%20(2).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/7-day-tours/image9%20(2).jpeg" alt="" class="img-responsive">
+                <img src="img/1_day_tours/image1yala%20(2).jpeg" alt="" class="img-responsive">
             </div>
             <div class="img-hover">
-                <div class="overlay"><a href="img/7-day-tours/image12%20(3).jpeg" class="fancybox"
+                <div class="overlay"><a href="img/1_day_tours/image1yala%20(4).jpeg" class="fancybox"
                                         rel="gallery"></a>
                 </div>
-                <img src="img/7-day-tours/image12%20(3).jpeg" alt="" class="img-responsive">
+                <img src="img/1_day_tours/image1yala%20(4).jpeg" alt="" class="img-responsive">
+            </div>
+            <div class="img-hover">
+                <div class="overlay"><a href="img/1_day_tours/image1yala%20(6).jpeg" class="fancybox"
+                                        rel="gallery"></a>
+                </div>
+                <img src="img/1_day_tours/image1yala%20(6).jpeg" alt="" class="img-responsive">
             </div>
         </div>
 
@@ -135,7 +141,7 @@
                             <li><a href="#"><i class="fa fa-star"></i></a></li>
                             <li><a href="#"><i class="fa fa-star-half-empty"></i></a></li>
                         </ul>
-                        <h2>7 Days Tour #3
+                        <h2>1 Day Tour - Yala National Park
                             <span></span>
                         </h2>
                     </div>
@@ -165,7 +171,8 @@
                                         Destinations</a>
                                 </li>
                                 <li class="pull-right">
-                                    <a href="bookTour.php?tour=7 Day Tour Package 3&type=honeymoon"><i class="fa fa-bookmark"></i>Reserve this Tour</a>
+                                    <a href="bookTour.php?tour=1 Day Tour - Yala National Park&type=1day"><i
+                                            class="fa fa-bookmark"></i>Reserve this Tour</a>
                                 </li>
                             </ul>
 
@@ -174,49 +181,19 @@
                                 <div class="tab-pane active" id="plan">
                                     <ul>
                                         <li>
-                                            <h3>Day 01 (Colombo - Bentota)</h3>
-                                            <p>On arrival in Sri Lanka, You will be met and assist by Tour star representative and directed to your guide. You will Transfer to Bentota, </p>
-                                            <p>Relax by the hotel.</p>
-                                            <p>Candle light dinner.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 02 (Bentota - Galle - Koggala)</h3>
-                                            <p>You will have Breakfast at the hotel. Transfer to Galle, the capital of the southern province is a city with a colorful history. UNESCO declared   world heritage site the magnificent Dutch fort is the most popular attraction of the town.</p>
-                                            <p>You will visit galle fort and in the evening period travel to Jungle beach and relax by the beach (if you are interest to ride scooty we provide that opportunity too)</p>
-                                            <p>Check in to Koggala Lake.</p>
-                                            <p>Candle light dinner.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 03 (Koggala)</h3>
-                                            <p>Breakfast at the hotel</p>
-                                            <p>In the morning you will enjoy the Boat ride in koggala.</p>
-                                            <p>Koggala Lake is an un-spoiled lake located in Southern province. It will feel like a paradise for natural lovers, The Lake is embellished with rocky islands, animals and shrubs. You can explore whole the area and all the islands. It is quite tremendous for bird watching and sunset sceneries in the evening.</p>
-                                            <p>Candle light dinner.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 04 (Galle - Kandy)</h3>
-                                            <p>Breakfast at the hotel</p>
-                                            <p>You leave Galle in the morning and travel to Kandy witnessing the change of scenery and climate. Arrive and check-in at hotel.</p>
-                                            <p>In Evening, you will visit the old royal city of kandy,magical and glamourous natural environment and beautifully nestled between green hills.Sri lankan people admire  the temple of  the  tooth relic as the blessing of the country.</p>
-                                            <p>then you will visit that adorable place which is the holiest  shrine in Sri Lanka, where the tooth relic of lord buddha is highly venerated.</p>
-                                            <p>As well you will have more opportunity to witness cultural dance performances, where you will see famous kandyan dances, as well as up-country and devil dances</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 05 (Kandy)</h3>
-                                            <p>After Breakfast at Hotel, commence a sightseeing tour of Kandy city including Gem museum, Art and craf centre and Bazar.</p>
-                                            <p>Transfer to Peradeniya. You visit the world famous botanical garden in peradeniya.As Sri Lanka’s largest garden an elegent and spacious 147-acres (60-hectares) plent of time is  needed to stroll peradeniya’s imposing avenue of Royal palms.</p>
-                                            <p>Check in to hotel and candle light dinner.</p>
-                                        </li>
-                                        <li>
-                                            <h3>Day 06 (Kandy - Negombo)</h3>
-                                            <p>Breakfast at the hotel</p>
-                                            <p>Transfer to Negombo, a small fishing village on west coast of the country. Check-in to hotel in Negombo. Relax and recover from any jet lag.</p>
-                                            <p>In the evening period you will visit Negombo.</p>
-                                            <p>Check in to hotel and have dinner</p>
-                                        </li>
-                                        <li>
-                                            <h3>Dday 07 (Negombo - Colombo)</h3>
-                                            <p>After have breakfast you will leave for colombo international airfort with a non-valuable nice memories.end of the Tour.</p>
+                                            <h3>1 day tour to Yala National Park</h3>
+                                            <p>Arrival in Colombo international Airport and meet with our
+                                                representative,You will Transfer to Yala national park,Yala is an ideal
+                                                place to spot the “Big Four” of Sri Lankan wildlife, the elephants, the
+                                                sloth bears the illusive leopard and the wild buffalo, the unsung
+                                                denizen of the park, if nothing else dangerous to the extreame.You will
+                                                drive to Yala Safari camp.</p>
+                                            <p>In the evening period you will transfer to Hikkaduwa check in to Hotel.</p>
+                                            <p>Sinharaja nature reserve for a day of bird watching and trekking through
+                                                the forest. Declared a UNESCO World Heritage Site, it is the least
+                                                distributed and biologically unique lowland rain forest remaining in Sri
+                                                Lanka.</p>
+                                            <p>Relax By the beach.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -228,32 +205,8 @@
                                             <ul class="list-styles">
                                                 <li>
                                                     <a target="_blank"
-                                                       href="https://goo.gl/maps/sSziTLdGrpm"><i
-                                                            class="fa fa-check"></i>Colombo</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://goo.gl/maps/4TKmkuDJmuw"><i
-                                                            class="fa fa-check"></i>Bentota</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://goo.gl/maps/VWc2egKt8Dm"><i
-                                                            class="fa fa-check"></i>Galle</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <ul class="list-styles">
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://goo.gl/maps/Y2A7754HCtt"><i
-                                                            class="fa fa-check"></i>Koggala</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://goo.gl/maps/Bpzyw2BxEmT2"><i
-                                                            class="fa fa-check"></i>Kandy</a></li>
-                                                <li>
-                                                    <a target="_blank"
-                                                       href="https://goo.gl/maps/oXcWmKKjfz52"><i
-                                                            class="fa fa-check"></i>Negombo</a></li>
+                                                       href="https://goo.gl/maps/wXKW7ykRht72"><i
+                                                            class="fa fa-check"></i>Yala National Park</a></li>
                                             </ul>
                                         </div>
                                     </div>

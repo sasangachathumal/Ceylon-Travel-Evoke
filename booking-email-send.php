@@ -39,14 +39,14 @@ else {
     try {
         $message = new Message();
         $message->setSender('booking@ceylontravelevoke.appspotmail.com');
-        $message->addTo('chathumal.sasanga02@gmail.com');
+        $message->addTo('rangikamadu.dl27@gmail.com');
         $message->setSubject('Ceylon Travel Evoke booking');
         $message->setHtmlBody($myMessage);
         $message->send();
 
         $message = new Message();
         $message->setSender('booking@ceylontravelevoke.appspotmail.com');
-        $message->addTo('sasanga.dev@gmail.com');
+        $message->addTo('hasitharanjana@gmail.com');
         $message->setSubject('Ceylon Travel Evoke booking');
         $message->setHtmlBody($myMessage);
         $message->send();

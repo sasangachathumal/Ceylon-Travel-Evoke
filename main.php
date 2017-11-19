@@ -22,10 +22,12 @@
 
     <link href="#" rel="stylesheet" media="screen" class="skin">
 
-    <link rel="shortcut icon" href="img/icons/favicon.ico">
-    <link rel="apple-touch-icon" href="img/icons/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="img/manifest.json">
+    <link rel="mask-icon" href="img/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
 
     <script src="js/modernizr.js"></script>
     <!--[if IE]>
@@ -66,32 +68,21 @@
             <label for="mobile-button"> <i class="fa fa-bars"></i></label>
             <input id="mobile-button" type="checkbox">
             <ul class="collapse">
-
                 <li class="title">
                     <a href="main.php"><span>C</span>eylon <span>T</span>ravel <span>E</span>voke<span>.</span></a>
                 </li>
-
-                <li><a href="main.php">HOME</a>
-                    <!--<div class="drop-down two-column hover-fade">
-                        <ul>
-                            <li><a href="main.php">Home Version 1</a></li>
-                            <li><a href="index-v2.php">Home Version 2</a></li>
-                            <li><a href="index-v3.php">Home Version 3</a></li>
-                            <li><a href="index-v4.php">Home Version 4</a></li>
-                        </ul>
-                        <ul>
-                            <li><a href="hotel-main.php">Home Hotels</a></li>
-                            <li><a href="flight-main.php">Home Flights</a></li>
-                        </ul>
-                    </div>-->
-                </li>
+                <li><a href="main.php">HOME</a></li>
                 <li><a href="tour-list.php">TOURS</a>
-                    <!--<ul class="drop-down one-column hover-fade">
-                        <li><a href="hotel-main.php">Home Hotels</a></li>
-                        <li><a href="hotel-list-view.php">List View</a></li>
-                        <li><a href="tour-list.php">Grid View</a></li>
-                        <li><a href="South_Sri_Lanka_Tour.php">Detailed</a></li>
-                    </ul>-->
+                    <ul class="drop-down one-column hover-fade">
+                        <li><a href="hiking-tours.php">Hiking tours</a></li>
+                        <li><a href="classic-tours.php">Classic tours</a></li>
+                        <li><a href="South_Sri_Lanka_Tour.php">South sri Lanka tour</a></li>
+                        <li><a href="1-day-tours.php">1 day tours</a></li>
+                        <li><a href="3_Day_tour.php">3 day tour</a></li>
+                        <li><a href="4-day-tours.php">4 day tours</a></li>
+                        <li><a href="7-day-tours.php">7 day tours</a></li>
+                        <li><a href="10_Day_Tour.php">10 day tours</a></li>
+                    </ul>
                 </li>
                 <li>
                     <a href="contact.php">CONTACT</a>
@@ -99,175 +90,6 @@
                 <li>
                     <a href="bookTour.php">BOOKING</a>
                 </li>
-                <!--<li><a href="template-shop.php">SHOP</a>
-                    <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-shop.php">Default Shop</a></li>
-                        <li><a href="template-shop-sidebar.php">Sidebar Shop</a></li>
-                        <li><a href="template-shop.php#!/Beautiful-Venice/p/58713996/category=15487747">Single Shop</a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="template-about-1.php">ABOUT US</a>
-                    <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-about-1.php">About Us 1</a></li>
-                        <li><a href="template-about-2.php">About us 2</a></li>
-                    </ul>
-                </li>
-                <li><a href="template-service-1.php">SERVICES</a>
-                    <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-service-1.php">Services 1</a></li>
-                        <li><a href="template-service-2.php">Services 2</a></li>
-                    </ul>
-                </li>
-                <li><a href="template-gallery-4.php">GALLERY</a>
-                    <ul class="drop-down one-column hover-fade">
-                        <li><a href="template-gallery-4.php">Gallery 4 Column</a></li>
-                        <li><a href="template-gallery-3.php">Gallery 3 Columns</a></li>
-                        <li><a href="template-gallery-2.php">Gallery 2 Columns</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">PACKAGES</a>
-                    <div class="drop-down full-width hover-fade">
-                        <ul>
-                            <li>
-                                <h2><span>Punta</span> Cana</h2>
-                                <a href="packages-main.php"><img src="img/gallery-2/1.jpg" alt="image 1"> </a>
-                                <p>Punta Cana is a cape located east of the Dominican Republic in the province of La
-                                    Altagracia.</p>
-                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
-                            </li>
-                        </ul>
-                        <ul>
-                            <li>
-                                <h2><span>Santa</span> Marta</h2>
-                                <a href="packages-main.php"><img src="img/gallery-2/2.jpg" alt="image 1"> </a>
-                                <p>Santa Marta, officially Tourism, Cultural and Historic District of Santa Marta is a
-                                    Colombian city.</p>
-                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
-                            </li>
-                        </ul>
-                        <ul>
-                            <li>
-                                <h2><span>Isla</span> de San Andres</h2>
-                                <a href="packages-main.php"><img src="img/gallery-2/3.jpg" alt="image 1"> </a>
-                                <p>San Andres Island is the largest of the islands forming part of the Archipelago of
-                                    San Andrés.</p>
-                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
-                            </li>
-                        </ul>
-                        <ul>
-                            <li>
-                                <h2><span>Cartagena</span> de Indias</h2>
-                                <a href="packages-main.php"><img src="img/gallery-2/4.jpg" alt="image 1"> </a>
-                                <p>Cartagena de Indias, officially Tourist and Cultural District of Cartagena de Indias
-                                    Cartagena de Indias abbreviated.</p>
-                                <a href="packages-main.php" class="btn btn-primary">View Details</a>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li><a href="template-about-1.php">FEATURES</a>
-                    <div class="drop-down full-width hover-fade">
-                        <ul>
-                            <li><h2>Templates</h2></li>
-                            <li><a href="template-about-1.php">About Us 1</a></li>
-                            <li><a href="template-about-2.php">About us 2</a></li>
-                            <li><a href="template-service-1.php">Services 1</a></li>
-                            <li><a href="template-service-2.php">Services 2</a></li>
-                            <li><a href="template-gallery-4.php">Gallery 4 Column</a></li>
-                            <li><a href="template-gallery-3.php">Gallery 3 Columns</a></li>
-                            <li><a href="template-gallery-2.php">Gallery 2 Columns</a></li>
-                            <li><a href="template-blog-right.php">Blog Right Sidebar</a></li>
-                            <li><a href="template-blog-left.php">Blog Left Sidebar</a></li>
-                        </ul>
-                        <ul>
-                            <li><h2>Templates</h2></li>
-                            <li><a href="template-blog-full.php">Blog Full Width</a></li>
-                            <li><a href="template-blog-read.php">Blog Read</a></li>
-                            <li><a href="template-faq.php">Page Faq Questions</a></li>
-                            <li><a href="page-full-widht.php">Page Full Widht</a></li>
-                            <li><a href="page-left.php">Page Left Sidebar</a></li>
-                            <li><a href="page-right.php">Page Right Sidebar</a></li>
-                            <li><a href="page-404.php">Page 404</a></li>
-                            <li><a href="page-site-map.php">Page Site Map</a></li>
-                            <li><a href="princing-tables.php">Princing tables</a></li>
-                        </ul>
-                        <ul>
-                            <li><h2>Features</h2></li>
-                            <li><a href="feature-header-1.php">Header Version 1</a></li>
-                            <li><a href="feature-header-2.php">Header Version 2</a></li>
-                            <li><a href="feature-header-3.php">Header Version 3</a></li>
-                            <li><a href="feature-header-4.php">Header Version 4</a></li>
-                            <li><a href="feature-footer-1.php#footer">Footer Version 1</a></li>
-                            <li><a href="feature-footer-2.php#footer">Footer Version 2</a></li>
-                            <li><a href="feature-footer-3.php#footer">Footer Version 3</a></li>
-                            <li><a href="feature-footer-4.php#footer">Footer Version 4</a></li>
-                            <li><a href="feature-background-sections.php">Background sections</a></li>
-                        </ul>
-                        <ul>
-                            <li><h2>Elements</h2></li>
-                            <li><a href="feature-grid-system.php">Grid System</a></li>
-                            <li><a href="feature-typograpy.php">Typograpy</a></li>
-                            <li><a href="feature-icons.php">Icons</a></li>
-                            <li class="icon-big-nav"><i class="fa fa-rocket"></i></li>
-                        </ul>
-                    </div>
-                </li>
-                <li>
-                    <a href="contact.php">CONTACT</a>
-                </li>
-                <li class="social-bar"><a href="#">FOLLOW US</a>
-                    <ul class="drop-down hover-zoom">
-                        <li><a href="#" target="_blank"><i class="fa fa-flickr"></i> </a></li>
-                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i> </a></li>
-                        <li><a href="#" target="_blank"><i class="fa fa-youtube"></i> </a></li>
-                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i> </a></li>
-                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
-                        <li><a href="#" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
-                    </ul>
-                </li>
-                <li class="login-form"><i class="fa fa-user"></i>
-                    <ul class="drop-down hover-expand">
-                        <li>
-                            <form method="post" action="#">
-                                <table>
-                                    <tr>
-                                        <td colspan="2">
-                                            <input type="email" required="required" name="email"
-                                                   placeholder="Your email address">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td colspan="2">
-                                            <input type="password" required="required" name="password"
-                                                   placeholder="Password">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><input type="submit" value="Login"></td>
-                                        <td><label> <input type="checkbox" name="check_box"> Keep me signed in </label>
-                                        </td>
-                                    </tr>
-                                </table>
-                            </form>
-                        </li>
-                    </ul>
-                </li>
-                <li class="search-bar"><i class="fa fa-search"></i>
-                    <ul class="drop-down hover-expand">
-                        <li>
-                            <form method="post" action="#">
-                                <table>
-                                    <tr>
-                                        <td><input type="search" required="required" name="serach_bar"
-                                                   placeholder="Type Keyword Here"></td>
-                                        <td><input type="submit" value="Search"></td>
-                                    </tr>
-                                </table>
-                            </form>
-                        </li>
-                    </ul>
-                </li>-->
             </ul>
         </nav>
 
