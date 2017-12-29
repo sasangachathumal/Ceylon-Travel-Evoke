@@ -143,7 +143,7 @@
                                     <!--<i class="fa fa-map-marker"></i><strong>Address: </strong> fa795 Folsom Ave, Suite-->
                                     <!--600<br>-->
                                     <!--<i class="fa fa-plane"></i><strong>City: </strong>San Francisco, CA 94107<br>-->
-                                    <i class="fa fa-phone"></i> (+94) 776 029 468<br>
+                                    <i class="fa fa-phone"></i> (+94) 776 029 463<br>
                                     <i class="fa fa-phone"></i> (+94) 779 891 275
                                 </address>
                                 <address>
@@ -229,7 +229,7 @@
                                     <i class="fa fa-envelope"></i>hasitharanjana@gmail.com
                                 </li>
                                 <li>
-                                    <i class="fa fa-phone"></i>(+94) 776 029 468<br>
+                                    <i class="fa fa-phone"></i>(+94) 776 029 463<br>
                                     <i class="fa fa-phone"></i>(+94) 779 891 275
                                 </li>
                             </ul>

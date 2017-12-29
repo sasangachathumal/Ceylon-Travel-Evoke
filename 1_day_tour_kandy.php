@@ -274,7 +274,7 @@
                                     <i class="fa fa-envelope"></i>hasitharanjana@gmail.com
                                 </li>
                                 <li>
-                                    <i class="fa fa-phone"></i>(+94) 776 029 468<br>
+                                    <i class="fa fa-phone"></i>(+94) 776 029 463<br>
                                     <i class="fa fa-phone"></i>(+94) 779 891 275
                                 </li>
                             </ul>
